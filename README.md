@@ -307,6 +307,9 @@ Feel free to explore my repositories to discover some interesting projects I've 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=BakangMonei&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+## Badges
+[![committers.top badge](https://user-badge.committers.top/botswana_private/USERNAME.svg)](https://user-badge.committers.top/botswana_private/BakangMonei)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
