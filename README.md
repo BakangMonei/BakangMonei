@@ -152,6 +152,20 @@ Academically grounded with:
 - **Application Integration:** Expertise in integrating databases with mobile and web applications using ORMs (Hibernate, Sequelize, Prisma, Room) and direct SQL/NoSQL APIs for efficient and secure data exchange.
 - **Database Security:** Implementing role-based access control (RBAC), encryption at rest and in transit, audit logging, SQL injection protection, and compliance with GDPR, HIPAA, and PCI DSS standards.
 
+## 🖥️ Server Administration & Hardware Maintenance Expertise
+### Server Administration
+- **Multi-Platform Server Management:** Proficient in deploying, configuring, and maintaining servers across Linux (Ubuntu, Kali, ParrotOS), Windows Server, and macOS environments, ensuring high availability, security, and optimal performance.
+- **Virtualization & Containers:** Skilled in setting up and managing virtualized environments (VMware, VirtualBox, KVM) and container orchestration (Docker, Kubernetes) for scalable application hosting.
+- **Backup & Disaster Recovery:** Experienced in implementing automated backup solutions, failover systems, disaster recovery (DR) strategies, and replication to safeguard data integrity and ensure business continuity.
+- **Server Hardening & Monitoring:** Adept at hardening servers against attacks, configuring firewalls, SSH security, system auditing, and setting up monitoring tools like Nagios, Zabbix, Prometheus, Grafana for real-time health tracking.
+- **Web & Application Servers:** Hands-on experience with configuring and optimizing Apache, Nginx, Tomcat, and Node.js servers to deliver high-performance web services.
+
+### Hardware Maintenance
+- **Hardware Diagnostics & Troubleshooting:** Skilled in identifying, diagnosing, and repairing hardware faults in servers, desktops, laptops, and networking equipment to minimize downtime.
+- **System Assembly & Upgrades:** Proficient in building custom systems, performing component upgrades (RAM, storage, CPUs, power supplies), and optimizing hardware setups for better performance and longevity.
+- **Preventive Maintenance:** Implementing preventive maintenance routines, including cleaning, thermal management, power checks, and firmware updates to extend the lifespan of hardware assets.
+- **Network Hardware:** Experienced in installing, configuring, and troubleshooting routers, switches, firewalls, and wireless access points, ensuring seamless and secure network connectivity.
+- **Hardware Asset Management:** Knowledgeable in inventory management, hardware lifecycle tracking, and documentation to maintain full visibility of infrastructure resources.
 
 ## 💻 What I'm Working On
 
@@ -201,29 +215,17 @@ Academically grounded with:
 - MacOS
 
 ## 🎯 Other Expertise and Interests:
-
-- Proficient in Networking fundamentals and administration with CCNA3 certification.
-- Specialized in Cybersecurity, employing tools and techniques for secure system implementations.
-- Experienced in Data Science methodologies and applications, leveraging data for actionable insights.
-- Skilled in server administration, especially with cloud-based solutions like AWS, Azure, Google Cloud, etc.
-- Adept in various programming languages and frameworks for web, mobile, and system development.
-- Strong skills in UI/UX design, providing visually appealing and user-friendly interfaces.
-- Actively engaged in tutoring and mentoring for Java, Python, and C++.
-- Familiarity with financial markets and Foreign Exchange dynamics.
-- Proficiency in database management systems like mySQL, MongoDB, PostgreSQL, etc.
-- Extensive experience in mobile technologies, including Android development (Native).
-- Entrepreneurial mindset with experience in technology-driven entrepreneurship and consulting.
-
-## 📫 Let's Connect!
-
-<ul>
-  <li>LinkedIn: <a href="https://www.linkedin.com/in/monei-bakang-mothuti-b715361b5/">Monei Bakang Mothuti</a></li>
-  <li>Twitter: <a href="https://twitter.com/BakangMonei">BakangMonei</a></li>
-  <li>Instagram: <a href="https://www.instagram.com/moneibakangmothuti/">@bakangmoneimothuti</a></li>
-  <li>Facebook: <a href="https://www.facebook.com/bakangmonei.mothuti/">Monei Bakang Mothuti</a></li>
-  <li>Email: <a href="mailto:bakangmonei2@gmail.com">bakangmonei@swiftiq.co.bw</a></li>
-  <li>TikTok: <a href="https://www.tiktok.com/@moneibakangmothuti">@moneibakangmothuti</a></li>
-</ul>
+- **Advanced Networking:** Proficient in networking fundamentals, configuration, and troubleshooting with CCNP certification, covering enterprise-level routing, switching, and network optimization.
+- **Cybersecurity:** Specialized in implementing secure systems using advanced penetration testing, threat analysis, and incident response techniques, backed by hands-on experience with top-tier security tools.
+- **Data Science & Analytics:** Experienced in data science methodologies and applications, transforming complex data into actionable business insights using statistical modeling and machine learning.
+- **Server & Cloud Administration:** Skilled in managing and optimizing cloud-based infrastructures (AWS, Azure, Google Cloud) and on-premises servers (Linux, Windows, MacOS).
+- **Full Stack Development:** Adept in multiple programming languages and frameworks for web, mobile, and system development, ensuring robust and scalable application delivery.
+- **UI/UX Design:** Strong proficiency in crafting visually appealing, user-friendly interfaces, leveraging tools like Figma and Adobe XD to enhance user experience.
+- **Tutoring & Mentorship:** Actively engaged in mentoring and tutoring developers, particularly in Java, Python, C++, and mobile development.
+- **Financial Markets Knowledge:** Familiarity with financial markets, foreign exchange (Forex) dynamics, and blockchain/cryptocurrency technologies.
+- **Database Management:** Proficient in designing, managing, and securing relational and NoSQL databases (MySQL, PostgreSQL, MongoDB, Firebase).
+- **Mobile Technologies:** Extensive experience in native Android development (Java, Kotlin) and cross-platform mobile app development.
+- **Entrepreneurship:** A tech-driven entrepreneurial mindset with hands-on experience in consulting, solution architecture, and technology strategy.
 
 ## 🚀 Check Out My Repositories!
 
