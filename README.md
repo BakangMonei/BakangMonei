@@ -168,12 +168,13 @@ Academically grounded with:
 - **Hardware Asset Management:** Knowledgeable in inventory management, hardware lifecycle tracking, and documentation to maintain full visibility of infrastructure resources.
 
 ## 💻 What I'm Working On
+- 🔭 I am currently immersed in **Gaming & Betting Technology**, focusing on developing secure, scalable betting platforms and gaming engines that leverage AI for fraud detection, risk analysis, and player behavior monitoring, with a strong emphasis on regulatory compliance and fairness.
+- 💡 I am advancing my expertise in Enterprise Software Engineering & Architecture, working on full-stack system development with a focus on API-first design, cloud-native solutions, and performance optimization, applying best practices in clean code and modular design.
+- 🌐 I am actively enhancing my skills in Networking & Security, implementing advanced network configurations (CCNP-level), cybersecurity protocols, and penetration testing methodologies to secure both cloud and on-premises infrastructures.
+- 📊 I am conducting Research & Business Development, particularly in the areas of AI-driven solutions, technology consulting, and market analysis, aiming to align technical innovation with business strategy and scalability.
+- 🧑‍💻 Additionally, I continue to work on AI-powered Mobile Solutions, diving into Machine Learning models for mobile, NLP, and computer vision to build intelligent, adaptive apps—while maintaining my passion for Education Technology, creating interactive learning platforms for handicapped students using AI.
 
-- 🔭 I am currently immersed in **Education In Technology**, where I am _creating interactive learning for handicapped students using Artificial Intelligence_.
 
-- 🌱 I am currently delving deeper into **Mobile Application Security** by exploring advanced techniques in secure mobile app development, focusing on **encryption algorithms**, **secure data storage**, and **penetration testing** to fortify applications against potential threats.
-
-- 🧠 Additionally, I'm advancing my knowledge in **AI-powered Mobile Solutions**, diving into topics like **Machine Learning models for mobile**, **Natural Language Processing (NLP)**, and **computer vision** to develop intelligent and adaptive mobile applications.
 
 ## 👨‍💻 Tech Stack
 
