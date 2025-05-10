@@ -2,20 +2,19 @@
 
 
 ## 🎓 Education 
-
-- Masters Of Science in Computer Science(Mobile Security, Cybersecurity, Research, Data Warehousing, Thessis, Operating Systems [Linux], Object-Oriented Software Engineering, Dissertation, Open-Source Intelligence, Artificial Intelligence & Machine Learning) Student **@UniversityOfBotswana**
 - [Summa Cum Laude] Bachelor of Sciences (Hons) Computer Systems Engineering **@UniversityOfSunderland**
-- Executive-Masters in Business Administration (MBA) **@SheffieldHallamUniversity**
+- Masters Of Science in Computer Science(Software Engineering & Architecture) Student **@UniversityOfBotswana**
+- Executive-Masters in Business Administration (MBA) student **@SheffieldHallamUniversity**
+- Masters Of Engineering in Computer and Telecommunications Engineering student **@BotswanaInternationalUniversityOfScienceAndTechnology**
 - Road to **Professorship???**
 
-## 🚀 About Me Bakang Monei [Software Engineer (Solutions Architect & Mobile Developer)]
+## 🚀 Meet Bakang Monei Motshegwe: The Visionary Executive Engineer 🚀🧠
+A powerhouse at the intersection of tech innovation and academic excellence, Monei Bakang is a relentless builder, thinker, and leader. He’s the type of person who juggles deep-dive research on AI ethics and gambling behavior one day, and the next, rolls out polished mobile apps—from emergency response systems to pool booking platforms—with Firebase and React Native like a true pro. Armed with a BSc (Hons) in Computer Systems Engineering (Cum Laude), an ongoing MSc in Computer Science, AND an Executive MBA, he thrives on fusing tech with strategy, embodying the rare blend of engineer, architect, entrepreneur, and educator. His coding arsenal? 🔧 Kotlin, Java, React, Spring Boot, Django, SQL—you name it. His research game? 🧪 Methodical, detail-obsessed, and always cutting-edge (AI in gambling, edge computing, smart robotics, EdTech—you feel the impact). Monei Bakang isn’t just about building tech; he’s about building futures—whether mentoring, leading his startup SwiftIQ, or empowering the next generation through teaching. Oh, and let’s not forget: he’s network-savvy, cloud-capable (AWS Certified), and deeply strategic in how he scales ideas from prototype to production, always with a clean UI and crisp documentation.
 
-- Passionate software engineering geek who loves diving deep into Software Engineering and creating impactful solutions. My journey in the world of tech has been an exciting ride filled with endless lines of code and a quest for innovation. 
-
-- Masters Of Science in Computer Science (Software Engineering, Artficial Intelligence & Machine Learning) Student | **[Cum Laude]** Bachelor of Sciences (Hons) Computer Systems Engineering | DevOps & CyberOps & SecOps | Android Developer | Machine Learning | Artificial Intelligence | AWS Certified Solutions Architect - Associate SAA-C03 | Google Developer | Server Administrator [Ubuntu & Microsoft & MacOs] | Linux [Kali & Parrot OS] | Tech-Entrepreneur | Cybersecurity | Database Administrator | UI/UX Designer | SpringBoot (ThymeLeave) | React Native | Software Consultant | Open-Source Intelligence (OSInt) | Network Security |
+In short: 🚨 Think coder. Think scholar. Think changemaker. That’s Monei Bakang. 🚀
 
 
-I bring hands-on experience in **Enterprise Software Engineering & Architecture**, specializing in:
+### I bring hands-on experience in **Enterprise Software Engineering & Architecture**, specializing in:
 
 - **Enterprise-Grade Application Development:** Designing scalable, maintainable software using clean architecture and modern design patterns.
 
