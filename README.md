@@ -100,22 +100,22 @@ Academically grounded with:
 - **Cloud-Native Applications:** Experienced in building cloud-native applications leveraging containerization (Docker), orchestration (Kubernetes), and cloud services (AWS, Azure, GCP) for scalability and resilience.
 - **Design Patterns & Best Practices:** Deep understanding of object-oriented (OOP), functional, and reactive programming paradigms, applying patterns like Singleton, Factory, Observer, MVC/MVVM to solve complex architectural challenges.
 
-## Software Development Practices
+### Software Development Practices
 - **Agile & DevOps Methodologies:** Adept in Scrum, Kanban, and Agile frameworks, integrating CI/CD pipelines (Jenkins, GitHub Actions) to ensure rapid, reliable deployments and automated testing.
 - **Test-Driven Development (TDD):** Strong advocate for unit testing, integration testing, and end-to-end testing using frameworks like JUnit, Mocha, Jest, Selenium, and Cypress.
 - **Code Quality & Reviews:** Proficient in static code analysis, peer reviews, and refactoring to uphold clean code standards (SOLID, DRY, KISS) and maintain long-term project health.
 - **Version Control:** Extensive experience using Git, GitHub, GitLab, Bitbucket, and applying GitFlow branching strategies for collaborative development.
 
-## Full Stack Development
+### Full Stack Development
 - **Frontend Development:** Skilled in developing modern, responsive UIs using ReactJS, React Native, Angular, Tailwind CSS, Material-UI, and optimizing for performance and accessibility.
 - **Backend Development:** Experienced in building robust backend systems with Spring Boot, Node.js (Express, NestJS), Django, Flask, and Laravel, focusing on security, scalability, and maintainability.
 - **Mobile Development:** Proficient in native Android development (Java, Kotlin) and cross-platform development (React Native, Flutter), delivering high-performance mobile apps.
 
-## Performance Optimization & Scalability
+### Performance Optimization & Scalability
 - **Application Performance:** Expertise in profiling, benchmarking, and optimizing code for performance bottlenecks, ensuring low-latency and high-throughput applications.
 - **Scalability & Reliability:** Skilled in designing systems that scale horizontally and vertically, implementing load balancing, caching (Redis, Memcached), and fault tolerance strategies.
 
-## Software Engineering Tools & Technologies
+### Software Engineering Tools & Technologies
 - **IDEs & Tooling:** Proficient with IntelliJ IDEA, VS Code, Android Studio, Xcode, and debugging/profiling tools.
 - **Documentation & API Specs:** Experienced with Swagger/OpenAPI, Postman, and Markdown-based documentation to ensure clarity and maintainability.
 - **Monitoring & Logging:** Skilled in setting up ELK Stack, Prometheus, Grafana, CloudWatch, and implementing centralized logging and monitoring for production systems.
