@@ -1,4 +1,4 @@
-# Monei Bakang Mothuti [Academia || Corporate Software Engineer || Solutions Architect]
+# Monei Bakang Mothuti [Academia || Executive Engineer]
 
 
 ## 🎓 Education 
@@ -12,7 +12,7 @@
 
 - Passionate software engineering geek who loves diving deep into Software Engineering and creating impactful solutions. My journey in the world of tech has been an exciting ride filled with endless lines of code and a quest for innovation. 
 
-- Masters Of Science in Computer Science (Software Engineering, Artficial Intelligence & Machine Learning) Student | **[Cum Laude]** Bachelor of Sciences (Hons) Computer Systems Engineering | DevOps & CyberOps & SecOps | Android Developer | Machine Learning | Artificial Intelligence | AWS Certified Solutions Architect - Associate SAA-C03 | Google Developer | Server Administrator [Ubuntu & Microsoft & MacOs] | Linux [Kali & Parrot OS] | Tech-Entrepreneur | Cybersecurity | Database Administrator | UI/UX Designer | SpringBoot (ThymeLeave) | React Native | Software Consultant | Open-Source Intelligence (OSInt) | Network Security | Project Management (PRINCE 2) | Agile & Scrum Master | Bitcoin Miner
+- Masters Of Science in Computer Science (Software Engineering, Artficial Intelligence & Machine Learning) Student | **[Cum Laude]** Bachelor of Sciences (Hons) Computer Systems Engineering | DevOps & CyberOps & SecOps | Android Developer | Machine Learning | Artificial Intelligence | AWS Certified Solutions Architect - Associate SAA-C03 | Google Developer | Server Administrator [Ubuntu & Microsoft & MacOs] | Linux [Kali & Parrot OS] | Tech-Entrepreneur | Cybersecurity | Database Administrator | UI/UX Designer | SpringBoot (ThymeLeave) | React Native | Software Consultant | Open-Source Intelligence (OSInt) | Network Security |
 
 
 I bring hands-on experience in **Enterprise Software Engineering & Architecture**, specializing in:
