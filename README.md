@@ -14,6 +14,47 @@
 
 - Masters Of Science in Computer Science (Software Engineering, Artficial Intelligence & Machine Learning) Student | **[Cum Laude]** Bachelor of Sciences (Hons) Computer Systems Engineering | DevOps & CyberOps & SecOps | Android Developer | Machine Learning | Artificial Intelligence | AWS Certified Solutions Architect - Associate SAA-C03 | Google Developer | Server Administrator [Ubuntu & Microsoft & MacOs] | Linux [Kali & Parrot OS] | Tech-Entrepreneur | Cybersecurity | Database Administrator | UI/UX Designer | SpringBoot (ThymeLeave) | React Native | Software Consultant | Open-Source Intelligence (OSInt) | Network Security | Project Management (PRINCE 2) | Agile & Scrum Master | Bitcoin Miner
 
+
+I bring hands-on experience in **Enterprise Software Engineering & Architecture**, specializing in:
+
+- **Enterprise-Grade Application Development:** Designing scalable, maintainable software using clean architecture and modern design patterns.
+
+- **Data Warehousing & Analytics:** Architecting robust data warehousing solutions (PostgreSQL, MySQL, MongoDB, Firebase) for large-scale data aggregation, ETL, reporting, and business intelligence.
+
+- **Operating Systems Expertise:** Deep understanding of Linux-based OS internals, kernel-level optimizations, and secure multi-platform development (Ubuntu, Kali, ParrotOS, Windows, MacOS).
+
+- **Networking & Security:** Engineering secure network architectures, performing penetration testing, and ensuring compliance using state-of-the-art cybersecurity tools and techniques.
+
+
+A significant area of focus is Betting & Gaming Technology, where I:
+
+- Develop secure, real-time betting and gaming systems with a deep focus on user engagement, transactional security, and fraud prevention.
+
+- Implement anti-fraud algorithms, risk management systems, and AI/ML models to monitor player behavior and mitigate problem gambling.
+
+- Leverage Edge AI and Blockchain to enhance transparency, privacy, and fairness within gaming platforms.
+
+
+
+Academically grounded with:
+
+- **Bachelor of Sciences (Hons) Computer Systems Engineering** (Summa Cum Laude) (2020-2024)
+- **Masters Of Science in Computer Science** (Software Engineering & Architecture) (2024-2026)
+- **Executive-Masters in Business Administration** (2024-2026)
+- **Masters of Engineering in Computer and Telecommunications Engineering** (2025-2027)
+
+## 💼 Key Focus Areas
+
+| Field                                   | Focus                                                                                       |
+| --------------------------------------- | ------------------------------------------------------------------------------------------- |
+| **Software Engineering & Architecture** | System design, clean architecture, API-first design, modular software development           |
+| **Betting & Gaming Systems**            | Real-time betting engines, fraud detection, compliance systems, AI-powered gaming analytics |
+| **Data Warehousing**                    | ETL pipelines, OLAP cubes, reporting dashboards, data lake integration                      |
+| **Operating Systems**                   | Linux OS internals, cross-platform development, secure OS configurations                    |
+| **Networking & Security**               | Firewalls, IDS/IPS, encryption, penetration testing, secure network protocols               |
+
+ 
+
 ## 🌟 Interests
 
 ### EdTech (Educational Technology)
