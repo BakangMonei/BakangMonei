@@ -242,50 +242,47 @@ I’m continuously exploring the latest advancements in software engineering, cy
 ### Let's Discuss Security and Networking!
 Passionate about security, networking, betting & gaming tech, and enterprise software architecture. I’m always excited to chat, share insights, or collaborate on innovative projects. Connect with me anytime for discussions or deep dives into these fields!
 
-## BuyMeACoffee
-<h3>Support:</h3><br>
-<p><a href="https://www.buymeacoffee.com/neizatheedev"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="devalphaspZ" /></a></p>
+## ☕ Buy Me a Coffee
+<div align="center"> <h3>Support My Work 💛</h3> <a href="https://www.buymeacoffee.com/neizatheedev" target="_blank"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60" width="250" alt="Support Me on BuyMeACoffee" /> </a> </div>
 
-### Languages and Tools:
-
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="aws"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
-<code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/web-assembly/web-assembly.png"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
+### 🛠️ Languages & Tools
+<div align="center">
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="TypeScript"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="AWS"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQL"></code>
+<code><img height="35" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="MongoDB"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostgreSQL"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" alt="Go"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png" alt="GraphQL"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" alt="Dart"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/web-assembly/web-assembly.png" alt="WebAssembly"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" alt="Android"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="Firebase"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" alt="Kubernetes"></code>
+</div>
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=BakangMonei&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=BakangMonei&theme=radical&no-frame=false&no-bg=false&margin-w=6" /> </p>
 
-## Badges
-[![committers.top badge](https://user-badge.committers.top/botswana_private/USERNAME.svg)](https://user-badge.committers.top/botswana_private/BakangMonei)
+## 🛡️ Badges
+<p align="center"> <a href="https://user-badge.committers.top/botswana_private/BakangMonei"> <img src="https://user-badge.committers.top/botswana_private/USERNAME.svg" alt="Top Committer Badge" /> </a> </p>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" /> </p>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=BakangMonei&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center"> <img src="https://github-contributor-stats.vercel.app/api?username=BakangMonei&limit=5&theme=dark&combine_all_yearly_contributions=true" /> </p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=BakangMonei&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BakangMonei&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+# 📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=BakangMonei&theme=dark&hide_border=false&include_all_commits=true&count_private=true" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BakangMonei&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /> </p>
 
 # My GitHub Streak
 
