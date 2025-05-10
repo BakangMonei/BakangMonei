@@ -178,39 +178,38 @@ Academically grounded with:
 
 ## 👨‍💻 Tech Stack
 
-### Languages
+### 🖥️ Languages
 
 - **Mobile Development:** Kotlin, Java, Swift, JavaScript, TypeScript, Go, Rust
 - **Network Security & Cybersecurity:** C, C++, C#, Python
 - **Legacy Systems & Security Analysis:** Fortran, GoLang, Bash
 
-### Databases
-
+### 🗄️ Databases
 - MySQL, SQLite, Firebase, MongoDB, PostgreSQL
 - Room, Turso (Custom database), PocketBase, Prisma
 
-### Frameworks
-
+### ⚙️ Frameworks
 - Mobile Development: React Native, Android (Java & Kotlin)
 - Web & Application Security: JavaFX, Spring Boot, Laravel, Cordova, React Native, Bootstrap 5, Tailwind CSS, Material Themes.
 
-### Cloud Services
-
+### ☁️ Cloud Services
 - AWS (Amazon Web Services), Azure, Google Cloud Services, IBM Cloud, Oracle Cloud.
 
-### Tools & Technologies
-
+### 🛠️ Tools & Technologies
 - **Version Control:** Git, GitLab, GitHub
 - **CI/CD:** Jenkins, Travis CI
 - **Network Administration & Cybersecurity:**
-  - Wireshark, Nmap, Metasploit, Snort, Burp Suite,OpenVAS,OSSEC,Zeek (formerly Bro), tcpdump,Aircrack-ng, Nessus,Nikto, Hashcat,tcpdump, IDS/IPS Systems (Intrusion Detection/Prevention Systems), SIEM (Security Information and Event Management), Penetration Testing Tools (various), Threat Intelligence Platforms
+  - Wireshark, Nmap, Metasploit, Snort, Burp Suite
+  - OpenVAS,OSSEC,Zeek (formerly Bro), tcpdump,Aircrack-ng
+  - Nessus,Nikto, Hashcat,tcpdump
+  - IDS/IPS Systems (Intrusion Detection/Prevention Systems)
+  - SIEM (Security Information and Event Management)
+  - Penetration Testing Tools (various), Threat Intelligence Platforms
 
-### Prototyping (UI/UX)
-
+### 🎨 Prototyping (UI/UX)
 - Figma, Adobe XD
 
-### Operating Systems
-
+### 🖥️ Operating Systems
 - Linux (various distributions such as Kali, ParrotOS, Ubuntu)
 - Windows (for development and testing)
 - MacOS
