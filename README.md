@@ -1,6 +1,5 @@
 # Monei Bakang Mothuti [Academia || Executive Engineer]
 
-
 ## 🎓 Education 
 - [Summa Cum Laude] Bachelor of Sciences (Hons) Computer Systems Engineering **@UniversityOfSunderland**
 - Masters Of Science in Computer Science(Software Engineering & Architecture) Student **@UniversityOfBotswana**
@@ -9,7 +8,7 @@
 - Road to **Professorship???**
 
 ## 🚀 Meet Bakang Monei: The Visionary Executive Engineer 🚀🧠
-A powerhouse at the intersection of tech innovation and academic excellence, Monei Bakang is a relentless builder, thinker, and leader. He’s the type of person who juggles deep-dive research on AI ethics and gambling behavior one day, and the next, rolls out polished mobile apps—from emergency response systems to pool booking platforms—with Firebase and React Native like a true pro. Armed with a BSc (Hons) in Computer Systems Engineering (Cum Laude), an ongoing MSc in Computer Science, AND an Executive MBA, he thrives on fusing tech with strategy, embodying the rare blend of engineer, architect, entrepreneur, and educator. His coding arsenal? 🔧 Kotlin, Java, React, Spring Boot, Django, SQL—you name it. His research game? 🧪 Methodical, detail-obsessed, and always cutting-edge (AI in gambling, edge computing, smart robotics, EdTech—you feel the impact). Monei Bakang isn’t just about building tech; he’s about building futures—whether mentoring, leading his startup SwiftIQ, or empowering the next generation through teaching. Oh, and let’s not forget: he’s network-savvy, cloud-capable (AWS Certified), and deeply strategic in how he scales ideas from prototype to production, always with a clean UI and crisp documentation.
+A powerhouse at the intersection of tech innovation and academic excellence, Monei Bakang is a relentless builder, thinker, and leader. He’s the type of person who juggles deep-dive research on AI ethics and gambling behavior one day, and the next, rolls out polished mobile apps like a true pro. Armed with a BSc (Hons) in Computer Systems Engineering (Summa Cum Laude), an ongoing MSc in Computer Science, AND an Executive MBA, he thrives on fusing tech with strategy, embodying the rare blend of engineer, architect, entrepreneur, and educator. His coding arsenal? 🔧You name it. His research game? 🧪 Methodical, detail-obsessed, and always cutting-edge (AI in gambling, edge computing, smart robotics, EdTech—you feel the impact). Monei Bakang isn’t just about building tech; he’s about building futures—whether mentoring, leading his startup SwiftIQ, or empowering the next generation through teaching. Oh, and let’s not forget: he’s network-savvy, cloud-capable, and deeply strategic in how he scales ideas from prototype to production, always with a clean UI and crisp documentation.
 
 In short: 🚨 Think coder. Think scholar. Think changemaker. That’s Monei Bakang. 🚀
 
