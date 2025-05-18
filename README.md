@@ -76,7 +76,7 @@ Academically grounded with:
 - Implementing AI-driven analytics to monitor patient health and predict potential health issues.
 - Designing telemedicine platforms that provide remote healthcare services and support.
 
-### AgriTech (Agricultural Technology) 
+### AgriTech (Agricultural Technology)
 - Utilizing AI, Machine Learning, and IoT to drive precision agriculture, optimizing resource use (water, fertilizers) and maximizing crop yields.
 - Developing smart farming systems that leverage real-time sensor data, satellite imagery, and predictive analytics for early detection of pests, diseases, and environmental stresses.
 - Designing AI-driven decision support systems that guide farmers on crop selection, irrigation schedules, and harvest timing for improved productivity.
