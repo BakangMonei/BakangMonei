@@ -1,5 +1,4 @@
 # Monei Bakang Mothuti [Academia || Executive Engineer]
-
 ## 🎓 Education
 - [Summa Cum Laude] Bachelor of Sciences (Hons) Computer Systems Engineering **@UniversityOfSunderland**
 - Masters Of Science in Computer Science(Software Engineering & Architecture) Student **@UniversityOfBotswana**
