@@ -3,7 +3,6 @@
 - [Summa Cum Laude] Bachelor of Sciences (Hons) Computer Systems Engineering **@UniversityOfSunderland**
 - Masters Of Science in Computer Science(Software Engineering & Architecture) Student **@UniversityOfBotswana**
 - Executive-Masters in Business Administration (MBA) student **@SheffieldHallamUniversity**
-- Masters Of Engineering in Computer and Telecommunications Engineering student **@BotswanaInternationalUniversityOfScienceAndTechnology**
 - Road to **Professorship???**
 
 ## 🚀 Meet Bakang Monei: The Visionary Executive Engineer 🚀🧠
