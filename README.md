@@ -31,7 +31,6 @@ Academically grounded with:
 - **Bachelor of Sciences (Hons) Computer Systems Engineering** (Summa Cum Laude) (2020-2024)
 - **Masters Of Science in Computer Science** (Software Engineering & Architecture) (2024-2026)
 - **Executive-Masters in Business Administration** (2024-2026)
-- **Masters of Engineering in Computer and Telecommunications Engineering** (2025-2027)
 
 ## 💼 Key Focus Areas
 
