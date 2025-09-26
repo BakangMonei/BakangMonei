@@ -7,11 +7,11 @@
 - Executive-Masters in Business Administration (MBA) student **@SheffieldHallamUniversity**
 - Road to **Professorship???**
 
-## 🚀 Meet Bakang Monei: The Visionary Executive Engineer 🚀🧠
+## 🚀 Meet Bakang Monei: The Visionary Executive Engineer
 
-A powerhouse at the intersection of tech innovation and academic excellence, Monei Bakang is a relentless builder, thinker, and leader. He’s the type of person who juggles deep-dive research on AI ethics and gambling behavior one day, and the next, rolls out polished mobile apps like a true pro. Armed with a BSc (Hons) in Computer Systems Engineering (Summa Cum Laude), an ongoing MSc in Computer Science, AND an Executive MBA, he thrives on fusing tech with strategy, embodying the rare blend of engineer, architect, entrepreneur, and educator. His coding arsenal? 🔧You name it. His research game? 🧪 Methodical, detail-obsessed, and always cutting-edge (AI in gambling, edge computing, smart robotics, EdTech—you feel the impact). Monei Bakang isn’t just about building tech; he’s about building futures—whether mentoring, leading his startup SwiftIQ, or empowering the next generation through teaching. Oh, and let’s not forget: he’s network-savvy, cloud-capable, and deeply strategic in how he scales ideas from prototype to production, always with a clean UI and crisp documentation.
+A powerhouse at the intersection of tech innovation and academic excellence, Monei Bakang is a relentless builder, thinker, and leader. He’s the type of person who juggles deep-dive research on AI ethics and gambling behavior one day, and the next, rolls out polished mobile apps like a true pro. Armed with a BSc (Hons) in Computer Systems Engineering (Summa Cum Laude), an ongoing MSc in Computer Science, AND an Executive MBA, he thrives on fusing tech with strategy, embodying the rare blend of engineer, architect, entrepreneur, and educator. His coding arsenal? 🔧You name it. His research game? Methodical, detail-obsessed, and always cutting-edge (AI in gambling, edge computing, smart robotics, EdTech—you feel the impact). Monei Bakang isn’t just about building tech; he’s about building futures—whether mentoring, leading his startup SwiftIQ, or empowering the next generation through teaching. Oh, and let’s not forget: he’s network-savvy, cloud-capable, and deeply strategic in how he scales ideas from prototype to production, always with a clean UI and crisp documentation.
 
-In short: 🚨 Think coder. Think scholar. Think changemaker. That’s Monei Bakang. 🚀
+In short: Think coder. Think scholar. Think changemaker. That’s Monei Bakang.
 
 ### I bring hands-on experience in **Enterprise Software Engineering & Architecture**, specializing in:
 
@@ -227,17 +227,17 @@ Academically grounded with:
   - SIEM (Security Information and Event Management)
   - Penetration Testing Tools (various), Threat Intelligence Platforms
 
-### 🎨 Prototyping (UI/UX)
+### Prototyping (UI/UX)
 
 - Figma, Adobe XD
 
-### 🖥️ Operating Systems
+### Operating Systems
 
 - Linux (various distributions such as Kali, ParrotOS, Ubuntu)
 - Windows (for development and testing)
 - MacOS
 
-## 🎯 Other Expertise and Interests:
+## Other Expertise and Interests:
 
 - **Advanced Networking:** Proficient in networking fundamentals, configuration, and troubleshooting with CCNP certification, covering enterprise-level routing, switching, and network optimization.
 - **Cybersecurity:** Specialized in implementing secure systems using advanced penetration testing, threat analysis, and incident response techniques, backed by hands-on experience with top-tier security tools.
