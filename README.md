@@ -185,37 +185,37 @@ Academically grounded with:
 - **Network Hardware:** Experienced in installing, configuring, and troubleshooting routers, switches, firewalls, and wireless access points, ensuring seamless and secure network connectivity.
 - **Hardware Asset Management:** Knowledgeable in inventory management, hardware lifecycle tracking, and documentation to maintain full visibility of infrastructure resources.
 
-## 💻 What I'm Working On
+## What I'm Working On
 
-- 🔭 I am currently immersed in **Gaming & Betting Technology**, focusing on developing secure, scalable betting platforms and gaming engines that leverage AI for fraud detection, risk analysis, and player behavior monitoring, with a strong emphasis on regulatory compliance and fairness.
-- 💡 I am advancing my expertise in Enterprise Software Engineering & Architecture, working on full-stack system development with a focus on API-first design, cloud-native solutions, and performance optimization, applying best practices in clean code and modular design.
-- 🌐 I am actively enhancing my skills in Networking & Security, implementing advanced network configurations (CCNP-level), cybersecurity protocols, and penetration testing methodologies to secure both cloud and on-premises infrastructures.
-- 📊 I am conducting Research & Business Development, particularly in the areas of AI-driven solutions, technology consulting, and market analysis, aiming to align technical innovation with business strategy and scalability.
-- 🧑‍💻 Additionally, I continue to work on AI-powered Mobile Solutions, diving into Machine Learning models for mobile, NLP, and computer vision to build intelligent, adaptive apps—while maintaining my passion for Education Technology, creating interactive learning platforms for handicapped students using AI.
+- I am currently immersed in **Gaming & Betting Technology**, focusing on developing secure, scalable betting platforms and gaming engines that leverage AI for fraud detection, risk analysis, and player behavior monitoring, with a strong emphasis on regulatory compliance and fairness.
+- I am advancing my expertise in Enterprise Software Engineering & Architecture, working on full-stack system development with a focus on API-first design, cloud-native solutions, and performance optimization, applying best practices in clean code and modular design.
+- I am actively enhancing my skills in Networking & Security, implementing advanced network configurations (CCNP-level), cybersecurity protocols, and penetration testing methodologies to secure both cloud and on-premises infrastructures.
+- I am conducting Research & Business Development, particularly in the areas of AI-driven solutions, technology consulting, and market analysis, aiming to align technical innovation with business strategy and scalability.
+- Additionally, I continue to work on AI-powered Mobile Solutions, diving into Machine Learning models for mobile, NLP, and computer vision to build intelligent, adaptive apps—while maintaining my passion for Education Technology, creating interactive learning platforms for handicapped students using AI.
 
-## 👨‍💻 Tech Stack
+## Tech Stack
 
-### 🖥️ Languages
+### Languages
 
 - **Mobile Development:** Kotlin, Java, Swift, JavaScript, TypeScript, Go, Rust
 - **Network Security & Cybersecurity:** C, C++, C#, Python
 - **Legacy Systems & Security Analysis:** Fortran, GoLang, Bash
 
-### 🗄️ Databases
+### Databases
 
 - MySQL, SQLite, Firebase, MongoDB, PostgreSQL
 - Room, Turso (Custom database), PocketBase, Prisma
 
-### ⚙️ Frameworks
+### Frameworks
 
 - Mobile Development: React Native, Android (Java & Kotlin)
 - Web & Application Security: JavaFX, Spring Boot, Laravel, Cordova, React Native, Bootstrap 5, Tailwind CSS, Material Themes.
 
-### ☁️ Cloud Services
+### Cloud Services
 
 - AWS (Amazon Web Services), Azure, Google Cloud Services, IBM Cloud, Oracle Cloud.
 
-### 🛠️ Tools & Technologies
+### Tools & Technologies
 
 - **Version Control:** Git, GitLab, GitHub
 - **CI/CD:** Jenkins, Travis CI
@@ -251,15 +251,15 @@ Academically grounded with:
 - **Mobile Technologies:** Extensive experience in native Android development (Java, Kotlin) and cross-platform mobile app development.
 - **Entrepreneurship:** A tech-driven entrepreneurial mindset with hands-on experience in consulting, solution architecture, and technology strategy.
 
-## 🚀 Check Out My Repositories!
+## Check Out My Repositories!
 
-Explore my repositories to discover the exciting projects I've been building—ranging from AI-powered apps and betting systems to cybersecurity tools and full-stack applications. Don’t forget to ⭐ star anything that catches your eye and feel free to fork or contribute!
+Explore my repositories to discover the exciting projects I've been building—ranging from AI-powered apps and betting systems to cybersecurity tools and full-stack applications. Don’t forget to star anything that catches your eye and feel free to fork or contribute!
 
-## 🌟 Fun Fact
+## Fun Fact
 
 I write code while listening to Gospel music, with my Holy Bible beside me and a cup of coffee in hand—faith and focus combined!
 
-## 🤝 Let's Collaborate!
+## Let's Collaborate!
 
 I’m always open to collaborations, tech discussions, and new opportunities. Whether you’re looking to co-develop a project, brainstorm ideas, or explore new ventures, feel free to reach out!
 
@@ -273,7 +273,7 @@ Passionate about security, networking, betting & gaming tech, and enterprise sof
 
 ## ☕ Buy Me a Coffee
 
-<div align="center"> <h3>Support My Work 💛</h3> <a href="https://www.buymeacoffee.com/neizatheedev" target="_blank"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60" width="250" alt="Support Me on BuyMeACoffee" /> </a> </div>
+<div align="center"> <h3>Support My Work</h3> <a href="https://www.buymeacoffee.com/neizatheedev" target="_blank"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60" width="250" alt="Support Me on BuyMeACoffee" /> </a> </div>
 
 ## 🏆 GitHub Trophies
 
