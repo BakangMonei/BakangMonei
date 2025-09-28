@@ -1,15 +1,15 @@
 # Monei Bakang Mothuti [Academia || Executive Engineer]
 
-## 🎓 Education
+## Education
 
 - [Summa Cum Laude] Bachelor of Sciences (Hons) Computer Systems Engineering **@UniversityOfSunderland**
 - Masters Of Science in Computer Science(Software Engineering & Architecture) Student **@UniversityOfBotswana**
 - Executive-Masters in Business Administration (MBA) student **@SheffieldHallamUniversity**
 - Road to **Professorship???**
 
-## 🚀 Meet Bakang Monei: The Visionary Executive Engineer
+## Bakang Monei: The Visionary Executive Engineer
 
-A powerhouse at the intersection of tech innovation and academic excellence, Monei Bakang is a relentless builder, thinker, and leader. He’s the type of person who juggles deep-dive research on AI ethics and gambling behavior one day, and the next, rolls out polished mobile apps like a true pro. Armed with a BSc (Hons) in Computer Systems Engineering (Summa Cum Laude), an ongoing MSc in Computer Science, AND an Executive MBA, he thrives on fusing tech with strategy, embodying the rare blend of engineer, architect, entrepreneur, and educator. His coding arsenal? 🔧You name it. His research game? Methodical, detail-obsessed, and always cutting-edge (AI in gambling, edge computing, smart robotics, EdTech—you feel the impact). Monei Bakang isn’t just about building tech; he’s about building futures—whether mentoring, leading his startup SwiftIQ, or empowering the next generation through teaching. Oh, and let’s not forget: he’s network-savvy, cloud-capable, and deeply strategic in how he scales ideas from prototype to production, always with a clean UI and crisp documentation.
+A powerhouse at the intersection of tech innovation and academic excellence, Monei Bakang is a relentless builder, thinker, and leader. He’s the type of person who juggles deep-dive research on AI ethics and gambling behavior one day, and the next, rolls out polished mobile apps like a true pro. Armed with a BSc (Hons) in Computer Systems Engineering (Summa Cum Laude), an ongoing MSc in Computer Science, AND an Executive-MBA, he thrives on fusing tech with strategy, embodying the rare blend of engineer, architect, entrepreneur, and educator. His coding arsenal? You name it. His research game? Methodical, detail-obsessed, and always cutting-edge (AI in gambling, edge computing, smart robotics, EdTech you feel the impact). Monei Bakang isn’t just about building tech; he’s about building futures whether mentoring, leading his startup SwiftIQ, or empowering the next generation through teaching. Oh, and let’s not forget: he’s network-savvy, cloud-capable, and deeply strategic in how he scales ideas from prototype to production, always with a clean UI and crisp documentation.
 
 In short: Think coder. Think scholar. Think changemaker. That’s Monei Bakang.
 
@@ -32,7 +32,7 @@ Academically grounded with:
 - **Masters Of Science in Computer Science** (Software Engineering & Architecture) (2024-2026)
 - **Executive-Masters in Business Administration** (2024-2026)
 
-## 💼 Key Focus Areas
+## Key Focus Areas
 
 | Field                                   | Focus                                                                                       |
 | --------------------------------------- | ------------------------------------------------------------------------------------------- |
@@ -42,7 +42,7 @@ Academically grounded with:
 | **Operating Systems**                   | Linux OS internals, cross-platform development, secure OS configurations                    |
 | **Networking & Security**               | Firewalls, IDS/IPS, encryption, penetration testing, secure network protocols               |
 
-## 🌟 Interests
+## Interests
 
 ### Betting & Gaming Technology
 
@@ -94,7 +94,7 @@ Academically grounded with:
 - Designing color-blind friendly interfaces and tools that enhance visual accessibility.
 - Implementing AI-driven technologies that provide real-time assistance and support for individuals with disabilities.
 
-## 💻 Software Engineering Expertise
+## Software Engineering Expertise
 
 ### Software Architecture & System Design
 
@@ -127,7 +127,7 @@ Academically grounded with:
 - **Documentation & API Specs:** Experienced with Swagger/OpenAPI, Postman, and Markdown-based documentation to ensure clarity and maintainability.
 - **Monitoring & Logging:** Skilled in setting up ELK Stack, Prometheus, Grafana, CloudWatch, and implementing centralized logging and monitoring for production systems.
 
-## 🛡️ Security and Networking Expertise
+## Security and Networking Expertise
 
 ### Security Focus Areas
 
@@ -141,11 +141,11 @@ Academically grounded with:
 ### Networking Skills
 
 - **Cisco Networking:** Certified in Cisco Certified Network Professional (CCNP), highly skilled in configuring, securing, and troubleshooting complex enterprise networks, including advanced routing, switching, and network infrastructure optimization.
-- **Network Administration:** Proficient in comprehensive network administration tasks—covering configuration, real-time monitoring, and maintenance of network infrastructure to ensure high availability, performance, and security.
+- **Network Administration:** Proficient in comprehensive network administration tasks covering configuration, real-time monitoring, and maintenance of network infrastructure to ensure high availability, performance, and security.
 - **Cloud Networking:** Extensive hands-on experience with cloud networking on AWS, Azure, Google Cloud, and IBM Cloud, including the design and implementation of secure, scalable, and resilient cloud network architectures.
 - **Protocols and Technologies:** In-depth expertise in a wide range of protocols (TCP/IP, UDP, HTTP/S, SSH, OSPF, BGP, EIGRP, VLANs, VPNs) and networking technologies, ensuring efficient communication, secure connectivity, and robust data transfer across hybrid networks.
 
-## 🗃️ Database Expertise
+## Database Expertise
 
 ### Database Management Systems
 
@@ -167,7 +167,7 @@ Academically grounded with:
 - **Application Integration:** Expertise in integrating databases with mobile and web applications using ORMs (Hibernate, Sequelize, Prisma, Room) and direct SQL/NoSQL APIs for efficient and secure data exchange.
 - **Database Security:** Implementing role-based access control (RBAC), encryption at rest and in transit, audit logging, SQL injection protection, and compliance with GDPR, HIPAA, and PCI DSS standards.
 
-## 🖥️ Server Administration & Hardware Maintenance Expertise
+## Server Administration & Hardware Maintenance Expertise
 
 ### Server Administration
 
@@ -191,7 +191,7 @@ Academically grounded with:
 - I am advancing my expertise in Enterprise Software Engineering & Architecture, working on full-stack system development with a focus on API-first design, cloud-native solutions, and performance optimization, applying best practices in clean code and modular design.
 - I am actively enhancing my skills in Networking & Security, implementing advanced network configurations (CCNP-level), cybersecurity protocols, and penetration testing methodologies to secure both cloud and on-premises infrastructures.
 - I am conducting Research & Business Development, particularly in the areas of AI-driven solutions, technology consulting, and market analysis, aiming to align technical innovation with business strategy and scalability.
-- Additionally, I continue to work on AI-powered Mobile Solutions, diving into Machine Learning models for mobile, NLP, and computer vision to build intelligent, adaptive apps—while maintaining my passion for Education Technology, creating interactive learning platforms for handicapped students using AI.
+- Additionally, I continue to work on AI-powered Mobile Solutions, diving into Machine Learning models for mobile, NLP, and computer vision to build intelligent, adaptive apps while maintaining my passion for Education Technology, creating interactive learning platforms for handicapped students using AI.
 
 ## Tech Stack
 
@@ -253,11 +253,11 @@ Academically grounded with:
 
 ## Check Out My Repositories!
 
-Explore my repositories to discover the exciting projects I've been building—ranging from AI-powered apps and betting systems to cybersecurity tools and full-stack applications. Don’t forget to star anything that catches your eye and feel free to fork or contribute!
+Explore my repositories to discover the exciting projects I've been building ranging from AI-powered apps and betting systems to cybersecurity tools and full-stack applications. Don’t forget to star anything that catches your eye and feel free to fork or contribute!
 
 ## Fun Fact
 
-I write code while listening to Gospel music, with my Holy Bible beside me and a cup of coffee in hand—faith and focus combined!
+I write code while listening to Gospel music, with my Holy Bible beside me and a cup of coffee in hand faith and focus combined!
 
 ## Let's Collaborate!
 
@@ -275,23 +275,23 @@ Passionate about security, networking, betting & gaming tech, and enterprise sof
 
 <div align="center"> <h3>Support My Work</h3> <a href="https://www.buymeacoffee.com/neizatheedev" target="_blank"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60" width="250" alt="Support Me on BuyMeACoffee" /> </a> </div>
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=BakangMonei&theme=radical&no-frame=false&no-bg=false&margin-w=6" /> </p>
 
-## 🛡️ Badges
+## Badges
 
 <p align="center"> <a href="https://user-badge.committers.top/botswana_private/BakangMonei"> <img src="https://user-badge.committers.top/botswana_private/USERNAME.svg" alt="Top Committer Badge" /> </a> </p>
 
-### ✍️ Random Dev Quote
+### Random Dev Quote
 
 <p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" /> </p>
 
-### 🔝 Top Contributed Repo
+### Top Contributed Repo
 
 <p align="center"> <img src="https://github-contributor-stats.vercel.app/api?username=BakangMonei&limit=5&theme=dark&combine_all_yearly_contributions=true" /> </p>
 
-# 📊 GitHub Stats
+# GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=BakangMonei&theme=dark&hide_border=false&include_all_commits=true&count_private=true" /><p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BakangMonei&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /> </p>
 
