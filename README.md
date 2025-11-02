@@ -277,6 +277,7 @@ Passionate about security, networking, betting & gaming tech, and enterprise sof
 
 ## GitHub Trophies
 
+
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=BakangMonei&theme=radical&no-frame=false&no-bg=false&margin-w=6" /> </p>
 
 ## Badges
