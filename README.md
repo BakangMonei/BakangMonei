@@ -463,29 +463,29 @@ I actively engage in forums and open-source communities, sharing knowledge and c
 
 ### 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BakangMonei&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&line_height=27)
+![BakangMonei's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BakangMonei&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BakangMonei&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8)
+![BakangMonei's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BakangMonei&layout=compact&langs_count=8&theme=radical&hide_border=false)
 
 ### 🔥 GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BakangMonei&theme=radical&hide_border=false)
+![BakangMonei's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BakangMonei&theme=radical&hide_border=false)
 
 ### 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=BakangMonei&theme=radical&no-frame=false&no-bg=false&margin-w=6)
+![BakangMonei's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=BakangMonei&theme=radical&no-frame=false&no-bg=false&margin-w=6)
 
 ### 📝 Contribution Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BakangMonei&theme=radical&hide_border=false&area=true)
+![BakangMonei's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=BakangMonei&theme=radical&hide_border=false&area=true)
 
 ### 💬 Random Dev Quote
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 📦 Top Contributed Repositories
 
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=BakangMonei&limit=5&theme=radical&combine_all_yearly_contributions=true)
+![BakangMonei's Top Contributed Repositories](https://github-contributor-stats.vercel.app/api?username=BakangMonei&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 </div>
 
