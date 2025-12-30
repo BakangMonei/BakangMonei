@@ -10,7 +10,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat&logo=twitter)](https://twitter.com/bakangmonei)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:bakangmonei@example.com)
 
-*Building the future, one line of code at a time* 🚀
+_Building the future, one line of code at a time_ 🚀
 
 </div>
 
@@ -34,16 +34,16 @@
 
 <div align="center">
 
-| Degree | Institution | Status | Achievement |
-|--------|------------|--------|-------------|
-| **BSc (Hons) Computer Systems Engineering** | University of Sunderland | ✅ Completed (2020-2024) | 🏆 **Summa Cum Laude** |
-| **MSc Computer Science** (Software Engineering & Architecture) | University of Botswana | 🎓 In Progress (2024-2026) | - |
-| **Executive MBA** | Sheffield Hallam University | 🎓 In Progress (2024-2026) | - |
-| **Professorship** | - | 🎯 Future Goal | - |
+| Degree                                                         | Institution                 | Status                     | Achievement            |
+| -------------------------------------------------------------- | --------------------------- | -------------------------- | ---------------------- |
+| **BSc (Hons) Computer Systems Engineering**                    | University of Sunderland    | ✅ Completed (2020-2024)   | 🏆 **Summa Cum Laude** |
+| **MSc Computer Science** (Software Engineering & Architecture) | University of Botswana      | 🎓 In Progress (2024-2026) | -                      |
+| **Executive MBA**                                              | Sheffield Hallam University | 🎓 In Progress (2024-2026) | -                      |
+| **Professorship**                                              | -                           | 🎯 Future Goal             | -                      |
 
 </div>
 
-> *"The road to excellence is paved with continuous learning and relentless pursuit of knowledge."*
+> _"The road to excellence is paved with continuous learning and relentless pursuit of knowledge."_
 
 ## 👨‍💼 About Me
 
@@ -80,12 +80,12 @@ My research game? Methodical, detail-obsessed, and always cutting-edge (AI in ga
 
 I bring hands-on experience in **Enterprise Software Engineering & Architecture**, specializing in:
 
-| Domain | Expertise |
-|--------|-----------|
-| 🏢 **Enterprise Application Development** | Designing scalable, maintainable software using clean architecture and modern design patterns |
-| 📊 **Data Warehousing & Analytics** | Architecting robust solutions (PostgreSQL, MySQL, MongoDB, Firebase) for large-scale data aggregation, ETL, reporting, and BI |
-| 🖥️ **Operating Systems** | Deep understanding of Linux-based OS internals, kernel-level optimizations, and secure multi-platform development |
-| 🔒 **Networking & Security** | Engineering secure network architectures, penetration testing, and compliance using state-of-the-art cybersecurity tools |
+| Domain                                    | Expertise                                                                                                                     |
+| ----------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| 🏢 **Enterprise Application Development** | Designing scalable, maintainable software using clean architecture and modern design patterns                                 |
+| 📊 **Data Warehousing & Analytics**       | Architecting robust solutions (PostgreSQL, MySQL, MongoDB, Firebase) for large-scale data aggregation, ETL, reporting, and BI |
+| 🖥️ **Operating Systems**                  | Deep understanding of Linux-based OS internals, kernel-level optimizations, and secure multi-platform development             |
+| 🔒 **Networking & Security**              | Engineering secure network architectures, penetration testing, and compliance using state-of-the-art cybersecurity tools      |
 
 ### 🎰 Betting & Gaming Technology Focus
 
@@ -99,13 +99,13 @@ A significant area of focus where I:
 
 <div align="center">
 
-| 🎯 Field | 🔍 Focus |
-|---------|---------|
-| **🏗️ Software Engineering & Architecture** | System design, clean architecture, API-first design, modular software development |
-| **🎰 Betting & Gaming Systems** | Real-time betting engines, fraud detection, compliance systems, AI-powered gaming analytics |
-| **📊 Data Warehousing** | ETL pipelines, OLAP cubes, reporting dashboards, data lake integration |
-| **🖥️ Operating Systems** | Linux OS internals, cross-platform development, secure OS configurations |
-| **🔒 Networking & Security** | Firewalls, IDS/IPS, encryption, penetration testing, secure network protocols |
+| 🎯 Field                                   | 🔍 Focus                                                                                    |
+| ------------------------------------------ | ------------------------------------------------------------------------------------------- |
+| **🏗️ Software Engineering & Architecture** | System design, clean architecture, API-first design, modular software development           |
+| **🎰 Betting & Gaming Systems**            | Real-time betting engines, fraud detection, compliance systems, AI-powered gaming analytics |
+| **📊 Data Warehousing**                    | ETL pipelines, OLAP cubes, reporting dashboards, data lake integration                      |
+| **🖥️ Operating Systems**                   | Linux OS internals, cross-platform development, secure OS configurations                    |
+| **🔒 Networking & Security**               | Firewalls, IDS/IPS, encryption, penetration testing, secure network protocols               |
 
 </div>
 
@@ -417,7 +417,7 @@ A significant area of focus where I:
 
 <div align="center">
 
-> *"I write code while listening to Gospel music, with my Holy Bible beside me and a cup of coffee in hand—faith and focus combined!"* ☕📖
+> _"I write code while listening to Gospel music, with my Holy Bible beside me and a cup of coffee in hand—faith and focus combined!"_ ☕📖
 
 </div>
 
@@ -439,6 +439,7 @@ I'm always open to **collaborations**, **tech discussions**, and **new opportuni
 ### 🎓 Ongoing Learning & Contributions
 
 I'm continuously exploring the latest advancements in:
+
 - 🏗️ Software Engineering & Architecture
 - 🔒 Cybersecurity & Penetration Testing
 - 🎰 Gaming & Betting Technologies
@@ -516,7 +517,7 @@ I actively engage in forums and open-source communities, sharing knowledge and c
 
 **Made with ❤️ by [Bakang Monei](https://github.com/BakangMonei)**
 
-*"Building the future, one commit at a time"* 🚀
+_"Building the future, one commit at a time"_ 🚀
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BakangMonei)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bakangmonei)
