@@ -469,13 +469,19 @@ I actively engage in forums and open-source communities, sharing knowledge and c
 
 ### GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=BakangMonei&theme=dark&hide_border=false&include_all_commits=true&count_private=true" /> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BakangMonei&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BakangMonei&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BakangMonei&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</p>
 
 ## GitHub Trophies
 
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=BakangMonei&theme=radical&no-frame=false&no-bg=false&margin-w=6" /> </p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=BakangMonei&theme=radical&no-frame=false&no-bg=false&margin-w=6" alt="GitHub Trophies" />
+</p>
 
 ## Badges
 
