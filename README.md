@@ -35,7 +35,6 @@ _Building the future, one line of code at a time_
 | **BSc (Hons) Computer Systems Engineering**                    | University of Sunderland    | Completed (2020-2024)   | **Summa Cum Laude** |
 | **MSc Computer Science** (Software Engineering & Architecture) | University of Botswana      | In Progress (2024-2026) | -                   |
 | **Executive MBA**                                              | Sheffield Hallam University | In Progress (2024-2026) | -                   |
-| **Professorship**                                              | -                           | Future Goal             | -                   |
 
 </div>
 
