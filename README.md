@@ -6,9 +6,13 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/BakangMonei?style=social)](https://github.com/BakangMonei)
 [![GitHub stars](https://img.shields.io/github/stars/BakangMonei?style=social)](https://github.com/BakangMonei)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/bakangmonei)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat&logo=twitter)](https://twitter.com/bakangmonei)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:bakangmonei@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/monei-bakang-mothuti-b715361b5/)
+[![Twitter](<https://img.shields.io/badge/X%20(Twitter)-Follow-000000?style=flat&logo=x>)](https://x.com/MoneiBakang)
+[![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=flat&logo=facebook)](https://www.facebook.com/bakangmonei.mothuti)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat&logo=instagram)](https://www.instagram.com/moneibakangmothuti/)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=flat&logo=researchgate)](https://www.researchgate.net/profile/Bakang-Motshegwe?ev=hdr_xprf)
+[![ORCID](https://img.shields.io/badge/ORCID-Profile-A6CE39?style=flat&logo=orcid)](https://orcid.org/0009-0003-2318-8309)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:bakangmonei2@gmail.com)
 
 _Building the future, one line of code at a time_
 
@@ -429,10 +433,14 @@ A significant area of focus where I:
 
 I'm always open to **collaborations**, **tech discussions**, and **new opportunities**. Whether you're looking to co-develop a project, brainstorm ideas, or explore new ventures, let's connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/bakangmonei)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/bakangmonei)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/monei-bakang-mothuti-b715361b5/)
+[![X (Twitter)](<https://img.shields.io/badge/X%20(Twitter)-Follow-000000?style=for-the-badge&logo=x>)](https://x.com/MoneiBakang)
+[![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/bakangmonei.mothuti)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/moneibakangmothuti/)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=for-the-badge&logo=researchgate)](https://www.researchgate.net/profile/Bakang-Motshegwe?ev=hdr_xprf)
+[![ORCID](https://img.shields.io/badge/ORCID-Profile-A6CE39?style=for-the-badge&logo=orcid)](https://orcid.org/0009-0003-2318-8309)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/BakangMonei)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:bakangmonei@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:bakangmonei2@gmail.com)
 
 </div>
 
@@ -512,8 +520,13 @@ I actively engage in forums and open-source communities, sharing knowledge and c
 _"Building the future, one commit at a time"_
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BakangMonei)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bakangmonei)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/bakangmonei)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monei-bakang-mothuti-b715361b5/)
+[![X (Twitter)](<https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white>)](https://x.com/MoneiBakang)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/bakangmonei.mothuti)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/moneibakangmothuti/)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Bakang-Motshegwe?ev=hdr_xprf)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-2318-8309)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bakangmonei2@gmail.com)
 
 </div>
 
