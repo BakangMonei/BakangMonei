@@ -469,9 +469,7 @@ I actively engage in forums and open-source communities, sharing knowledge and c
 
 ## GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BakangMonei&theme=radical&no-frame=false&no-bg=false&margin-w=6" alt="GitHub Trophies" />
-</p>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=BakangMonei&theme=radical&no-frame=false&no-bg=false&margin-w=6" /> </p>
 
 ## Badges
 
