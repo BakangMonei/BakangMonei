@@ -1,287 +1,295 @@
 <div align="center">
 
-# Monei Bakang Mothuti
+# 👋 Monei Bakang Mothuti
 
-### Academia || Executive Engineer || Tech Visionary
+### 🎓 Academia • 💼 Executive Engineer • 🚀 Tech Visionary
 
-[GitHub](https://github.com/BakangMonei) • [LinkedIn](https://www.linkedin.com/in/monei-bakang-mothuti-b715361b5/) • [X (Twitter)](https://x.com/MoneiBakang) • [Facebook](https://www.facebook.com/bakangmonei.mothuti) • [Instagram](https://www.instagram.com/moneibakangmothuti/) • [ResearchGate](https://www.researchgate.net/profile/Bakang-Motshegwe?ev=hdr_xprf) • [ORCID](https://orcid.org/0009-0003-2318-8309) • [Email](mailto:bakangmonei2@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BakangMonei)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monei-bakang-mothuti-b715361b5/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/MoneiBakang)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bakangmonei2@gmail.com)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Bakang-Motshegwe?ev=hdr_xprf)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-2318-8309)
 
-_Building the future, one line of code at a time_
+> _"Building the future, one line of code at a time"_
+
+![Profile Views](https://komarev.com/ghpvc/?username=BakangMonei&color=blueviolet&style=flat-square&label=Profile+Views)
 
 </div>
 
 ---
 
-## Table of Contents
+## 📚 Table of Contents
 
-- [Education](#education)
-- [About Me](#about-me)
-- [Key Focus Areas](#key-focus-areas)
-- [Interests & Specializations](#interests--specializations)
-- [Technical Expertise](#technical-expertise)
-- [Current Projects](#current-projects)
-- [Tech Stack](#tech-stack)
-- [GitHub Analytics](#github-analytics)
-- [Let's Connect](#lets-connect)
+- [🎓 Education](#-education)
+- [👨‍💻 About Me](#-about-me)
+- [🎯 Key Focus Areas](#-key-focus-areas)
+- [💡 Interests & Specializations](#-interests--specializations)
+- [🛠️ Technical Expertise](#️-technical-expertise)
+- [🚀 Current Projects](#-current-projects)
+- [💻 Tech Stack](#-tech-stack)
+- [📊 GitHub Analytics](#-github-analytics)
+- [🤝 Let's Connect](#-lets-connect)
 
 ---
 
-## Education
+## 🎓 Education
 
 <div align="center">
 
-| Degree                                                         | Institution                 | Status                  | Achievement         |
-| -------------------------------------------------------------- | --------------------------- | ----------------------- | ------------------- |
-| **BSc (Hons) Computer Systems Engineering**                    | University of Sunderland    | Completed (2020-2024)   | **Summa Cum Laude** |
-| **MSc Computer Science** (Software Engineering & Architecture) | University of Botswana      | In Progress (2024-2026) | -                   |
-| **Executive MBA**                                              | Sheffield Hallam University | In Progress (2024-2026) | -                   |
+| Degree | Institution | Status | Achievement |
+|:------:|:-----------:|:------:|:-----------:|
+| **BSc (Hons) Computer Systems Engineering** | University of Sunderland | ✅ Completed (2020-2024) | 🏆 **Summa Cum Laude** |
+| **MSc Computer Science** (Software Engineering & Architecture) | University of Botswana | 🔄 In Progress (2024-2026) | - |
+| **Executive MBA** | Sheffield Hallam University | 🔄 In Progress (2024-2026) | - |
 
 </div>
+
+<div align="center">
 
 > _"The road to excellence is paved with continuous learning and relentless pursuit of knowledge."_
 
-## About Me
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=BakangMonei&color=blueviolet&style=flat-square)
-
 </div>
+
+---
+
+## 👨‍💻 About Me
 
 A powerhouse at the intersection of **tech innovation** and **academic excellence**, I'm a relentless builder, thinker, and leader. I juggle deep-dive research on AI ethics and gambling behavior one day, and roll out polished mobile apps the next. Armed with a **BSc (Hons) in Computer Systems Engineering (Summa Cum Laude)**, an ongoing **MSc in Computer Science**, and an **Executive-MBA**, I thrive on fusing tech with strategy, embodying the rare blend of:
 
-- **Engineer** - Building scalable, enterprise-grade systems
-- **Architect** - Designing clean, maintainable software architectures
-- **Entrepreneur** - Leading SwiftIQ and scaling ideas from prototype to production
-- **Educator** - Mentoring and empowering the next generation
+<div align="center">
+
+| 🏗️ **Engineer** | 🏛️ **Architect** | 🚀 **Entrepreneur** | 📚 **Educator** |
+|:---:|:---:|:---:|:---:|
+| Building scalable, enterprise-grade systems | Designing clean, maintainable software architectures | Leading SwiftIQ and scaling ideas from prototype to production | Mentoring and empowering the next generation |
+
+</div>
 
 My research game? Methodical, detail-obsessed, and always cutting-edge (AI in gambling, edge computing, smart robotics, EdTech). I'm not just about building tech; I'm about **building futures**—whether through mentoring, leading my startup, or empowering students through teaching.
 
 **In short:** Think coder. Think scholar. Think changemaker. That's me.
 
-### Core Competencies
+### 🎯 Core Competencies
 
 <div align="center">
 
-![Enterprise Software Engineering](https://img.shields.io/badge/Enterprise%20Software-Engineering-blue?style=for-the-badge)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Expert-red?style=for-the-badge)
-![Cloud Architecture](https://img.shields.io/badge/Cloud-Architecture-orange?style=for-the-badge)
-![AI/ML](https://img.shields.io/badge/AI%2FML-Research-purple?style=for-the-badge)
-![Networking](https://img.shields.io/badge/Networking-CCNP-green?style=for-the-badge)
+![Enterprise Software Engineering](https://img.shields.io/badge/Enterprise%20Software-Engineering-blue?style=for-the-badge&logo=code&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Expert-red?style=for-the-badge&logo=shield-check&logoColor=white)
+![Cloud Architecture](https://img.shields.io/badge/Cloud-Architecture-orange?style=for-the-badge&logo=cloud&logoColor=white)
+![AI/ML](https://img.shields.io/badge/AI%2FML-Research-purple?style=for-the-badge&logo=brain&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-CCNP-green?style=for-the-badge&logo=network-wired&logoColor=white)
 
 </div>
 
-### Professional Expertise
+### 💼 Professional Expertise
 
 I bring hands-on experience in **Enterprise Software Engineering & Architecture**, specializing in:
 
-| Domain                                 | Expertise                                                                                                                     |
-| -------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
-| **Enterprise Application Development** | Designing scalable, maintainable software using clean architecture and modern design patterns                                 |
-| **Data Warehousing & Analytics**       | Architecting robust solutions (PostgreSQL, MySQL, MongoDB, Firebase) for large-scale data aggregation, ETL, reporting, and BI |
-| **Operating Systems**                  | Deep understanding of Linux-based OS internals, kernel-level optimizations, and secure multi-platform development             |
-| **Networking & Security**              | Engineering secure network architectures, penetration testing, and compliance using state-of-the-art cybersecurity tools      |
+| Domain | Expertise |
+|:------:|:---------:|
+| **🏢 Enterprise Application Development** | Designing scalable, maintainable software using clean architecture and modern design patterns |
+| **📊 Data Warehousing & Analytics** | Architecting robust solutions (PostgreSQL, MySQL, MongoDB, Firebase) for large-scale data aggregation, ETL, reporting, and BI |
+| **🖥️ Operating Systems** | Deep understanding of Linux-based OS internals, kernel-level optimizations, and secure multi-platform development |
+| **🔒 Networking & Security** | Engineering secure network architectures, penetration testing, and compliance using state-of-the-art cybersecurity tools |
 
-### Betting & Gaming Technology Focus
+### 🎰 Betting & Gaming Technology Focus
 
 A significant area of focus where I:
 
-- Develop secure, real-time betting and gaming systems with deep focus on user engagement, transactional security, and fraud prevention
-- Implement anti-fraud algorithms, risk management systems, and AI/ML models to monitor player behavior and mitigate problem gambling
-- Leverage Edge AI and Blockchain to enhance transparency, privacy, and fairness within gaming platforms
+- 🎮 Develop secure, real-time betting and gaming systems with deep focus on user engagement, transactional security, and fraud prevention
+- 🤖 Implement anti-fraud algorithms, risk management systems, and AI/ML models to monitor player behavior and mitigate problem gambling
+- ⚡ Leverage Edge AI and Blockchain to enhance transparency, privacy, and fairness within gaming platforms
 
-## Key Focus Areas
+---
+
+## 🎯 Key Focus Areas
 
 <div align="center">
 
-| Field                                   | Focus                                                                                       |
-| --------------------------------------- | ------------------------------------------------------------------------------------------- |
-| **Software Engineering & Architecture** | System design, clean architecture, API-first design, modular software development           |
-| **Betting & Gaming Systems**            | Real-time betting engines, fraud detection, compliance systems, AI-powered gaming analytics |
-| **Data Warehousing**                    | ETL pipelines, OLAP cubes, reporting dashboards, data lake integration                      |
-| **Operating Systems**                   | Linux OS internals, cross-platform development, secure OS configurations                    |
-| **Networking & Security**               | Firewalls, IDS/IPS, encryption, penetration testing, secure network protocols               |
+| Field | Focus |
+|:-----:|:-----:|
+| **🏗️ Software Engineering & Architecture** | System design, clean architecture, API-first design, modular software development |
+| **🎰 Betting & Gaming Systems** | Real-time betting engines, fraud detection, compliance systems, AI-powered gaming analytics |
+| **📊 Data Warehousing** | ETL pipelines, OLAP cubes, reporting dashboards, data lake integration |
+| **🖥️ Operating Systems** | Linux OS internals, cross-platform development, secure OS configurations |
+| **🔒 Networking & Security** | Firewalls, IDS/IPS, encryption, penetration testing, secure network protocols |
 
 </div>
 
-## Interests & Specializations
+---
 
-### Betting & Gaming Technology
+## 💡 Interests & Specializations
 
-- Developing real-time betting platforms and gaming engines that ensure seamless, secure, and engaging user experiences.
-- Applying AI and Machine Learning to power fraud detection, risk management, and player behavior analysis, enhancing both security and fairness.
-- Building anti-money laundering (AML) and responsible gaming systems, integrating edge AI models for privacy-preserving monitoring of gambling habits.
-- Designing blockchain-powered betting systems for transparent, tamper-proof transactions, ensuring trust and fairness across all stakeholders.
-- Leveraging big data analytics to optimize betting odds, predict outcomes, and provide actionable insights to both users and platform owners.
-- Innovating in gamification and user engagement strategies to drive loyalty and retention, while maintaining compliance with global gaming regulations.
+### 🎰 Betting & Gaming Technology
 
-### EdTech (Educational Technology)
+- 🎮 Developing real-time betting platforms and gaming engines that ensure seamless, secure, and engaging user experiences
+- 🤖 Applying AI and Machine Learning to power fraud detection, risk management, and player behavior analysis
+- 🛡️ Building anti-money laundering (AML) and responsible gaming systems with edge AI models
+- ⛓️ Designing blockchain-powered betting systems for transparent, tamper-proof transactions
+- 📈 Leveraging big data analytics to optimize betting odds and predict outcomes
+- 🎯 Innovating in gamification and user engagement strategies while maintaining regulatory compliance
 
-- Utilizing Machine Learning, Artificial Intelligence, and Intelligent Systems to revolutionize education.
-- Developing adaptive learning systems that personalize educational content to suit individual learning paces and styles.
-- Creating intelligent tutoring systems that provide real-time feedback and support to students.
-- Implementing AI-driven analytics to monitor and improve student engagement and performance.
-- Designing interactive learning tools and platforms that enhance the educational experience for both teachers and students.
+### 📚 EdTech (Educational Technology)
 
-### FinTech (Financial Technology)
+- 🧠 Utilizing Machine Learning, Artificial Intelligence, and Intelligent Systems to revolutionize education
+- 🎓 Developing adaptive learning systems that personalize educational content
+- 👨‍🏫 Creating intelligent tutoring systems with real-time feedback
+- 📊 Implementing AI-driven analytics to monitor student engagement and performance
+- 🎨 Designing interactive learning tools and platforms
 
-- Applying Machine Learning and AI to create innovative financial solutions.
-- Developing predictive models for risk assessment, fraud detection, and financial forecasting.
-- Creating intelligent personal finance management systems that help users make informed financial decisions.
-- Building AI-driven trading algorithms and investment platforms that optimize returns and minimize risks.
-- Implementing blockchain algorithms and cryptocurrency technologies to enhance security and transparency in financial transactions.
+### 💰 FinTech (Financial Technology)
 
-### eHealth (Electronic Health)
+- 🤖 Applying Machine Learning and AI to create innovative financial solutions
+- 📊 Developing predictive models for risk assessment, fraud detection, and financial forecasting
+- 💳 Creating intelligent personal finance management systems
+- 📈 Building AI-driven trading algorithms and investment platforms
+- ⛓️ Implementing blockchain algorithms and cryptocurrency technologies
 
-- Leveraging Machine Learning and AI to improve healthcare delivery and outcomes.
-- Developing intelligent diagnostic systems that assist medical professionals in early detection and treatment of diseases.
-- Creating personalized healthcare solutions that tailor treatments and wellness plans to individual needs.
-- Implementing AI-driven analytics to monitor patient health and predict potential health issues.
-- Designing telemedicine platforms that provide remote healthcare services and support.
+### 🏥 eHealth (Electronic Health)
 
-### AgriTech (Agricultural Technology)
+- 🧬 Leveraging Machine Learning and AI to improve healthcare delivery and outcomes
+- 🔬 Developing intelligent diagnostic systems for early detection and treatment
+- 👤 Creating personalized healthcare solutions tailored to individual needs
+- 📊 Implementing AI-driven analytics to monitor patient health
+- 💻 Designing telemedicine platforms for remote healthcare services
 
-- Utilizing AI, Machine Learning, and IoT to drive precision agriculture, optimizing resource use (water, fertilizers) and maximizing crop yields.
-- Developing smart farming systems that leverage real-time sensor data, satellite imagery, and predictive analytics for early detection of pests, diseases, and environmental stresses.
-- Designing AI-driven decision support systems that guide farmers on crop selection, irrigation schedules, and harvest timing for improved productivity.
-- Implementing blockchain solutions for transparent food supply chains, ensuring traceability from farm to fork and enhancing food safety.
-- Creating automated drone and robotics solutions for planting, monitoring, and harvesting, reducing labor costs and improving efficiency.
-- Advancing sustainable agriculture through vertical farming, hydroponics, and aeroponics systems, powered by smart monitoring and optimization tools.
+### 🌾 AgriTech (Agricultural Technology)
 
-### Accessibility Solutions for the Handicapped
+- 🤖 Utilizing AI, Machine Learning, and IoT for precision agriculture
+- 🌱 Developing smart farming systems with real-time sensor data and predictive analytics
+- 📊 Designing AI-driven decision support systems for crop management
+- ⛓️ Implementing blockchain solutions for transparent food supply chains
+- 🚁 Creating automated drone and robotics solutions for farming operations
+- 🌿 Advancing sustainable agriculture through vertical farming and smart monitoring
 
-- Using Machine Learning Algorithms to develop solutions that improve the quality of life for the handicapped.
-- Creating intelligent systems that assist the blind in navigating and interacting with their environment.
-- Developing speech recognition and synthesis systems to aid communication for the deaf.
-- Designing color-blind friendly interfaces and tools that enhance visual accessibility.
-- Implementing AI-driven technologies that provide real-time assistance and support for individuals with disabilities.
+### ♿ Accessibility Solutions for the Handicapped
 
-## Technical Expertise
+- 🤖 Using Machine Learning Algorithms to improve quality of life
+- 👁️ Creating intelligent systems for the blind to navigate and interact
+- 🗣️ Developing speech recognition and synthesis systems for the deaf
+- 🎨 Designing color-blind friendly interfaces and tools
+- 🤝 Implementing AI-driven technologies for real-time assistance
 
-### Software Engineering Expertise
+---
 
-### Software Architecture & System Design
+## 🛠️ Technical Expertise
 
-- **Enterprise Software Architecture:** Proficient in architecting scalable, modular, and maintainable software systems, applying Microservices, Clean Architecture, Hexagonal Architecture, and Domain-Driven Design (DDD) principles.
-- **API-First Development:** Skilled in designing RESTful APIs and GraphQL endpoints with a focus on performance, security, and versioning, ensuring seamless integration across distributed systems.
-- **Cloud-Native Applications:** Experienced in building cloud-native applications leveraging containerization (Docker), orchestration (Kubernetes), and cloud services (AWS, Azure, GCP) for scalability and resilience.
-- **Design Patterns & Best Practices:** Deep understanding of object-oriented (OOP), functional, and reactive programming paradigms, applying patterns like Singleton, Factory, Observer, MVC/MVVM to solve complex architectural challenges.
+### 💻 Software Engineering Expertise
 
-### Software Development Practices
+#### 🏛️ Software Architecture & System Design
 
-- **Agile & DevOps Methodologies:** Adept in Scrum, Kanban, and Agile frameworks, integrating CI/CD pipelines (Jenkins, GitHub Actions) to ensure rapid, reliable deployments and automated testing.
-- **Test-Driven Development (TDD):** Strong advocate for unit testing, integration testing, and end-to-end testing using frameworks like JUnit, Mocha, Jest, Selenium, and Cypress.
-- **Code Quality & Reviews:** Proficient in static code analysis, peer reviews, and refactoring to uphold clean code standards (SOLID, DRY, KISS) and maintain long-term project health.
-- **Version Control:** Extensive experience using Git, GitHub, GitLab, Bitbucket, and applying GitFlow branching strategies for collaborative development.
+- **Enterprise Software Architecture:** Proficient in architecting scalable, modular, and maintainable software systems, applying Microservices, Clean Architecture, Hexagonal Architecture, and Domain-Driven Design (DDD) principles
+- **API-First Development:** Skilled in designing RESTful APIs and GraphQL endpoints with a focus on performance, security, and versioning
+- **Cloud-Native Applications:** Experienced in building cloud-native applications leveraging containerization (Docker), orchestration (Kubernetes), and cloud services (AWS, Azure, GCP)
+- **Design Patterns & Best Practices:** Deep understanding of OOP, functional, and reactive programming paradigms, applying patterns like Singleton, Factory, Observer, MVC/MVVM
 
-### Full Stack Development
+#### 🔄 Software Development Practices
 
-- **Frontend Development:** Skilled in developing modern, responsive UIs using ReactJS, React Native, Angular, Tailwind CSS, Material-UI, and optimizing for performance and accessibility.
-- **Backend Development:** Experienced in building robust backend systems with Spring Boot, Node.js (Express, NestJS), Django, Flask, and Laravel, focusing on security, scalability, and maintainability.
-- **Mobile Development:** Proficient in native Android development (Java, Kotlin) and cross-platform development (React Native, Flutter), delivering high-performance mobile apps.
+- **Agile & DevOps Methodologies:** Adept in Scrum, Kanban, and Agile frameworks, integrating CI/CD pipelines (Jenkins, GitHub Actions)
+- **Test-Driven Development (TDD):** Strong advocate for unit testing, integration testing, and end-to-end testing using frameworks like JUnit, Mocha, Jest, Selenium, and Cypress
+- **Code Quality & Reviews:** Proficient in static code analysis, peer reviews, and refactoring to uphold clean code standards (SOLID, DRY, KISS)
+- **Version Control:** Extensive experience using Git, GitHub, GitLab, Bitbucket, and applying GitFlow branching strategies
 
-### Performance Optimization & Scalability
+#### 🌐 Full Stack Development
 
-- **Application Performance:** Expertise in profiling, benchmarking, and optimizing code for performance bottlenecks, ensuring low-latency and high-throughput applications.
-- **Scalability & Reliability:** Skilled in designing systems that scale horizontally and vertically, implementing load balancing, caching (Redis, Memcached), and fault tolerance strategies.
+- **Frontend Development:** Skilled in developing modern, responsive UIs using ReactJS, React Native, Angular, Tailwind CSS, Material-UI
+- **Backend Development:** Experienced in building robust backend systems with Spring Boot, Node.js (Express, NestJS), Django, Flask, and Laravel
+- **Mobile Development:** Proficient in native Android development (Java, Kotlin) and cross-platform development (React Native, Flutter)
 
-### Software Engineering Tools & Technologies
+#### ⚡ Performance Optimization & Scalability
 
-- **IDEs & Tooling:** Proficient with IntelliJ IDEA, VS Code, Android Studio, Xcode, and debugging/profiling tools.
-- **Documentation & API Specs:** Experienced with Swagger/OpenAPI, Postman, and Markdown-based documentation to ensure clarity and maintainability.
-- **Monitoring & Logging:** Skilled in setting up ELK Stack, Prometheus, Grafana, CloudWatch, and implementing centralized logging and monitoring for production systems.
+- **Application Performance:** Expertise in profiling, benchmarking, and optimizing code for performance bottlenecks
+- **Scalability & Reliability:** Skilled in designing systems that scale horizontally and vertically, implementing load balancing, caching (Redis, Memcached), and fault tolerance strategies
 
-### Security and Networking Expertise
+### 🔒 Security and Networking Expertise
 
-### Security Focus Areas
+#### 🛡️ Security Focus Areas
 
-- **Network Security:** Certified and proficient in architecting and deploying secure network infrastructures, including advanced configurations of firewalls, IDS/IPS systems, VPNs, VLAN security, and access control policies to ensure enterprise-grade protection.
-- **Cybersecurity Practices:** Experienced in threat intelligence, risk assessment, vulnerability management, incident response, and conducting security audits to strengthen organizational security posture and maintain regulatory compliance.
-- **Penetration Testing:** Skilled in performing manual and automated penetration testing across web applications, networks, and mobile platforms, utilizing industry-standard methodologies (OWASP, PTES) to identify and remediate vulnerabilities.
-- **Secure Coding:** Adept at enforcing secure software development lifecycles (SSDLC), integrating security checks into CI/CD pipelines, and coding against common threats like SQL injection, XSS, CSRF, and buffer overflows.
-- **Encryption and Authentication:** Proficient in applying modern encryption algorithms (AES, RSA, SHA), TLS/SSL implementations, multifactor authentication (MFA), and OAuth2/OpenID protocols to safeguard sensitive data and communication.
-- **Security Tools and Technologies:** Extensive hands-on expertise with tools such as Wireshark, Nmap, Metasploit, Burp Suite, Nessus, Snort, OpenVAS, Nikto, Hashcat, and advanced SIEM platforms for proactive monitoring and response.
+- **Network Security:** Certified and proficient in architecting secure network infrastructures, including firewalls, IDS/IPS systems, VPNs, VLAN security
+- **Cybersecurity Practices:** Experienced in threat intelligence, risk assessment, vulnerability management, incident response, and security audits
+- **Penetration Testing:** Skilled in performing manual and automated penetration testing using industry-standard methodologies (OWASP, PTES)
+- **Secure Coding:** Adept at enforcing secure software development lifecycles (SSDLC), integrating security checks into CI/CD pipelines
+- **Encryption and Authentication:** Proficient in modern encryption algorithms (AES, RSA, SHA), TLS/SSL implementations, MFA, and OAuth2/OpenID protocols
+- **Security Tools:** Extensive expertise with Wireshark, Nmap, Metasploit, Burp Suite, Nessus, Snort, OpenVAS, Nikto, Hashcat, and SIEM platforms
 
-### Networking Skills
+#### 🌐 Networking Skills
 
-- **Cisco Networking:** Certified in Cisco Certified Network Professional (CCNP), highly skilled in configuring, securing, and troubleshooting complex enterprise networks, including advanced routing, switching, and network infrastructure optimization.
-- **Network Administration:** Proficient in comprehensive network administration tasks covering configuration, real-time monitoring, and maintenance of network infrastructure to ensure high availability, performance, and security.
-- **Cloud Networking:** Extensive hands-on experience with cloud networking on AWS, Azure, Google Cloud, and IBM Cloud, including the design and implementation of secure, scalable, and resilient cloud network architectures.
-- **Protocols and Technologies:** In-depth expertise in a wide range of protocols (TCP/IP, UDP, HTTP/S, SSH, OSPF, BGP, EIGRP, VLANs, VPNs) and networking technologies, ensuring efficient communication, secure connectivity, and robust data transfer across hybrid networks.
+- **Cisco Networking:** Certified CCNP, highly skilled in configuring, securing, and troubleshooting complex enterprise networks
+- **Network Administration:** Proficient in comprehensive network administration tasks covering configuration, monitoring, and maintenance
+- **Cloud Networking:** Extensive experience with cloud networking on AWS, Azure, Google Cloud, and IBM Cloud
+- **Protocols and Technologies:** In-depth expertise in TCP/IP, UDP, HTTP/S, SSH, OSPF, BGP, EIGRP, VLANs, VPNs
 
-### Database Expertise
+### 🗄️ Database Expertise
 
-### Database Management Systems
+#### 📊 Database Management Systems
 
-- **Relational Databases:** Proficient in designing, deploying, and maintaining MySQL, PostgreSQL, SQL Server, and SQLite databases, ensuring high performance, normalization, and data integrity for complex, scalable applications.
-- **NoSQL Databases:** Experienced with MongoDB, Firebase, Redis, and DynamoDB, adept at architecting high-availability, horizontally scalable NoSQL solutions for flexible, unstructured data models.
+- **Relational Databases:** Proficient in designing, deploying, and maintaining MySQL, PostgreSQL, SQL Server, and SQLite databases
+- **NoSQL Databases:** Experienced with MongoDB, Firebase, Redis, and DynamoDB for flexible, unstructured data models
 
-### Data Warehousing & Engineering
+#### 📈 Data Warehousing & Engineering
 
-- **Data Warehousing:** Expertise in building data warehouses and ETL pipelines, integrating large datasets for analytics and reporting (PostgreSQL, Redshift, Google BigQuery). Familiar with dimensional modeling (star/snowflake schemas), OLAP cubes, and data marts.
-- **Data Engineering:** Skilled in data ingestion, transformation, and storage optimization, ensuring seamless flow from operational databases to data lakes/warehouses
+- **Data Warehousing:** Expertise in building data warehouses and ETL pipelines, integrating large datasets for analytics and reporting
+- **Data Engineering:** Skilled in data ingestion, transformation, and storage optimization
 
-### Database Administration and Optimization
+#### ⚙️ Database Administration and Optimization
 
-- **Database Administration:** Proficient in schema design, indexing, query optimization, performance tuning, backup/recovery strategies, replication, clustering, and ensuring ACID compliance and high availability.
-- **Data Modeling:** Strong ability to create normalized and denormalized data models that optimize query performance and support business logic effectively.
+- **Database Administration:** Proficient in schema design, indexing, query optimization, performance tuning, backup/recovery strategies
+- **Data Modeling:** Strong ability to create normalized and denormalized data models
 
-### Integration with Applications
+### 🖥️ Server Administration & Hardware Maintenance Expertise
 
-- **Application Integration:** Expertise in integrating databases with mobile and web applications using ORMs (Hibernate, Sequelize, Prisma, Room) and direct SQL/NoSQL APIs for efficient and secure data exchange.
-- **Database Security:** Implementing role-based access control (RBAC), encryption at rest and in transit, audit logging, SQL injection protection, and compliance with GDPR, HIPAA, and PCI DSS standards.
+#### 🖥️ Server Administration
 
-### Server Administration & Hardware Maintenance Expertise
+- **Multi-Platform Server Management:** Proficient in deploying, configuring, and maintaining servers across Linux, Windows Server, and macOS
+- **Virtualization & Containers:** Skilled in setting up and managing virtualized environments (VMware, VirtualBox, KVM) and container orchestration (Docker, Kubernetes)
+- **Backup & Disaster Recovery:** Experienced in implementing automated backup solutions, failover systems, and disaster recovery strategies
+- **Server Hardening & Monitoring:** Adept at hardening servers, configuring firewalls, SSH security, and setting up monitoring tools (Nagios, Zabbix, Prometheus, Grafana)
+- **Web & Application Servers:** Hands-on experience with Apache, Nginx, Tomcat, and Node.js servers
 
-### Server Administration
+#### 🔧 Hardware Maintenance
 
-- **Multi-Platform Server Management:** Proficient in deploying, configuring, and maintaining servers across Linux (Ubuntu, Kali, ParrotOS), Windows Server, and macOS environments, ensuring high availability, security, and optimal performance.
-- **Virtualization & Containers:** Skilled in setting up and managing virtualized environments (VMware, VirtualBox, KVM) and container orchestration (Docker, Kubernetes) for scalable application hosting.
-- **Backup & Disaster Recovery:** Experienced in implementing automated backup solutions, failover systems, disaster recovery (DR) strategies, and replication to safeguard data integrity and ensure business continuity.
-- **Server Hardening & Monitoring:** Adept at hardening servers against attacks, configuring firewalls, SSH security, system auditing, and setting up monitoring tools like Nagios, Zabbix, Prometheus, Grafana for real-time health tracking.
-- **Web & Application Servers:** Hands-on experience with configuring and optimizing Apache, Nginx, Tomcat, and Node.js servers to deliver high-performance web services.
+- **Hardware Diagnostics & Troubleshooting:** Skilled in identifying, diagnosing, and repairing hardware faults
+- **System Assembly & Upgrades:** Proficient in building custom systems and performing component upgrades
+- **Preventive Maintenance:** Implementing preventive maintenance routines for extended hardware lifespan
+- **Network Hardware:** Experienced in installing, configuring, and troubleshooting routers, switches, firewalls, and wireless access points
 
-### Hardware Maintenance
+---
 
-- **Hardware Diagnostics & Troubleshooting:** Skilled in identifying, diagnosing, and repairing hardware faults in servers, desktops, laptops, and networking equipment to minimize downtime.
-- **System Assembly & Upgrades:** Proficient in building custom systems, performing component upgrades (RAM, storage, CPUs, power supplies), and optimizing hardware setups for better performance and longevity.
-- **Preventive Maintenance:** Implementing preventive maintenance routines, including cleaning, thermal management, power checks, and firmware updates to extend the lifespan of hardware assets.
-- **Network Hardware:** Experienced in installing, configuring, and troubleshooting routers, switches, firewalls, and wireless access points, ensuring seamless and secure network connectivity.
-- **Hardware Asset Management:** Knowledgeable in inventory management, hardware lifecycle tracking, and documentation to maintain full visibility of infrastructure resources.
-
-## Current Projects & Initiatives
+## 🚀 Current Projects & Initiatives
 
 <div align="left">
 
-- **Gaming & Betting Technology** - Developing secure, scalable betting platforms and gaming engines that leverage AI for fraud detection, risk analysis, and player behavior monitoring, with a strong emphasis on regulatory compliance and fairness.
+- 🎰 **Gaming & Betting Technology** - Developing secure, scalable betting platforms and gaming engines that leverage AI for fraud detection, risk analysis, and player behavior monitoring
 
-- **Enterprise Software Engineering & Architecture** - Advancing expertise in full-stack system development with a focus on API-first design, cloud-native solutions, and performance optimization, applying best practices in clean code and modular design.
+- 🏗️ **Enterprise Software Engineering & Architecture** - Advancing expertise in full-stack system development with a focus on API-first design, cloud-native solutions, and performance optimization
 
-- **Networking & Security** - Actively enhancing skills in advanced network configurations (CCNP-level), cybersecurity protocols, and penetration testing methodologies to secure both cloud and on-premises infrastructures.
+- 🔒 **Networking & Security** - Actively enhancing skills in advanced network configurations (CCNP-level), cybersecurity protocols, and penetration testing methodologies
 
-- **Research & Business Development** - Conducting research in AI-driven solutions, technology consulting, and market analysis, aiming to align technical innovation with business strategy and scalability.
+- 🔬 **Research & Business Development** - Conducting research in AI-driven solutions, technology consulting, and market analysis
 
-- **AI-Powered Mobile Solutions** - Diving into Machine Learning models for mobile, NLP, and computer vision to build intelligent, adaptive apps.
+- 🤖 **AI-Powered Mobile Solutions** - Diving into Machine Learning models for mobile, NLP, and computer vision to build intelligent, adaptive apps
 
-- **Education Technology** - Creating interactive learning platforms for handicapped students using AI, maintaining a passion for accessible education.
+- 📚 **Education Technology** - Creating interactive learning platforms for handicapped students using AI
 
 </div>
 
-### Currently Learning
+### 📖 Currently Learning
 
 <div align="center">
 
-![Kubernetes](https://img.shields.io/badge/Learning-Kubernetes-blue?style=flat-square&logo=kubernetes)
-![Terraform](https://img.shields.io/badge/Learning-Terraform-purple?style=flat-square&logo=terraform)
-![GraphQL](https://img.shields.io/badge/Learning-GraphQL-pink?style=flat-square&logo=graphql)
-![Rust](https://img.shields.io/badge/Learning-Rust-orange?style=flat-square&logo=rust)
-![Go](https://img.shields.io/badge/Learning-Go-00ADD8?style=flat-square&logo=go)
+![Kubernetes](https://img.shields.io/badge/Learning-Kubernetes-blue?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Learning-Terraform-purple?style=for-the-badge&logo=terraform&logoColor=white)
+![GraphQL](https://img.shields.io/badge/Learning-GraphQL-pink?style=for-the-badge&logo=graphql&logoColor=white)
+![Rust](https://img.shields.io/badge/Learning-Rust-orange?style=for-the-badge&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Learning-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 </div>
 
-## Tech Stack
+---
 
-### Languages
+## 💻 Tech Stack
+
+### 🔤 Languages
 
 <div align="center">
 
@@ -297,7 +305,7 @@ A significant area of focus where I:
 
 </div>
 
-### Databases
+### 🗄️ Databases
 
 <div align="center">
 
@@ -310,7 +318,7 @@ A significant area of focus where I:
 
 </div>
 
-### Frameworks & Libraries
+### 🎨 Frameworks & Libraries
 
 <div align="center">
 
@@ -323,7 +331,7 @@ A significant area of focus where I:
 
 </div>
 
-### Cloud Services
+### ☁️ Cloud Services
 
 <div align="center">
 
@@ -334,7 +342,7 @@ A significant area of focus where I:
 
 </div>
 
-### Tools & Technologies
+### 🛠️ Tools & Technologies
 
 <div align="center">
 
@@ -352,7 +360,7 @@ A significant area of focus where I:
 **Network Security Tools:** Wireshark, Nmap, Metasploit, Burp Suite, Nessus, OpenVAS  
 **Monitoring:** Prometheus, Grafana, ELK Stack, CloudWatch
 
-### Prototyping & Design
+### 🎨 Prototyping & Design
 
 <div align="center">
 
@@ -361,7 +369,7 @@ A significant area of focus where I:
 
 </div>
 
-### Operating Systems
+### 🖥️ Operating Systems
 
 <div align="center">
 
@@ -372,120 +380,139 @@ A significant area of focus where I:
 
 </div>
 
-### Additional Expertise & Interests
+---
 
-- **Advanced Networking:** Proficient in networking fundamentals, configuration, and troubleshooting with CCNP certification, covering enterprise-level routing, switching, and network optimization.
-- **Cybersecurity:** Specialized in implementing secure systems using advanced penetration testing, threat analysis, and incident response techniques, backed by hands-on experience with top-tier security tools.
-- **Data Science & Analytics:** Experienced in data science methodologies and applications, transforming complex data into actionable business insights using statistical modeling and machine learning.
-- **Server & Cloud Administration:** Skilled in managing and optimizing cloud-based infrastructures (AWS, Azure, Google Cloud) and on-premises servers (Linux, Windows, MacOS).
-- **Full Stack Development:** Adept in multiple programming languages and frameworks for web, mobile, and system development, ensuring robust and scalable application delivery.
-- **UI/UX Design:** Strong proficiency in crafting visually appealing, user-friendly interfaces, leveraging tools like Figma and Adobe XD to enhance user experience.
-- **Tutoring & Mentorship:** Actively engaged in mentoring and tutoring developers, particularly in Java, Python, C++, and mobile development.
-- **Financial Markets Knowledge:** Familiarity with financial markets, foreign exchange (Forex) dynamics, and blockchain/cryptocurrency technologies.
-- **Database Management:** Proficient in designing, managing, and securing relational and NoSQL databases (MySQL, PostgreSQL, MongoDB, Firebase).
-- **Mobile Technologies:** Extensive experience in native Android development (Java, Kotlin) and cross-platform mobile app development.
-- **Entrepreneurship:** A tech-driven entrepreneurial mindset with hands-on experience in consulting, solution architecture, and technology strategy.
-
-## Featured Projects
+## 🌟 Featured Projects
 
 <div align="center">
 
 > Explore my repositories to discover exciting projects ranging from AI-powered apps and betting systems to cybersecurity tools and full-stack applications.
 
-**[View All Repositories →](https://github.com/BakangMonei?tab=repositories)**
+**[🔗 View All Repositories →](https://github.com/BakangMonei?tab=repositories)**
 
 </div>
 
-### Project Highlights
+### 🎯 Project Highlights
 
-- **AI-Powered Applications** - Machine learning models for mobile, NLP, and computer vision
-- **Betting & Gaming Systems** - Secure, real-time platforms with fraud detection
-- **Cybersecurity Tools** - Penetration testing and security analysis utilities
-- **Full-Stack Applications** - Enterprise-grade web and mobile solutions
-- **EdTech Platforms** - Interactive learning systems for accessible education
-
-> **Tip:** Don't forget to star anything that catches your eye and feel free to fork or contribute!
-
----
-
-## Fun Fact
+- 🤖 **AI-Powered Applications** - Machine learning models for mobile, NLP, and computer vision
+- 🎰 **Betting & Gaming Systems** - Secure, real-time platforms with fraud detection
+- 🔒 **Cybersecurity Tools** - Penetration testing and security analysis utilities
+- 🌐 **Full-Stack Applications** - Enterprise-grade web and mobile solutions
+- 📚 **EdTech Platforms** - Interactive learning systems for accessible education
 
 <div align="center">
 
-> _"I write code while listening to Gospel music, with my Holy Bible beside me and a cup of coffee in hand—faith and focus combined!"_
+> **💡 Tip:** Don't forget to star anything that catches your eye and feel free to fork or contribute!
 
 </div>
 
 ---
 
-## Let's Collaborate!
+## 📊 GitHub Analytics
+
+### 📈 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=BakangMonei&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BakangMonei&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+
+</div>
+
+### 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BakangMonei&theme=dark&hide_border=false" alt="GitHub Streak" />
+
+</div>
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=BakangMonei&theme=radical&no-frame=false&no-bg=false&margin-w=6" />
+
+</div>
+
+### 🎖️ Badges
+
+<div align="center">
+
+<a href="https://user-badge.committers.top/botswana_private/BakangMonei">
+  <img src="https://user-badge.committers.top/botswana_private/BakangMonei.svg" alt="Top Committer Badge" />
+</a>
+
+</div>
+
+### 💬 Random Dev Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
+
+</div>
+
+### 📦 Top Contributed Repo
+
+<div align="center">
+
+<img src="https://github-contributor-stats.vercel.app/api?username=BakangMonei&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+
+</div>
+
+---
+
+## 💝 Fun Fact
+
+<div align="center">
+
+> _"I write code while listening to Gospel music, with my Holy Bible beside me and a cup of coffee in hand—faith and focus combined!"_ ☕📖
+
+</div>
+
+---
+
+## 🤝 Let's Collaborate!
 
 <div align="center">
 
 I'm always open to **collaborations**, **tech discussions**, and **new opportunities**. Whether you're looking to co-develop a project, brainstorm ideas, or explore new ventures, let's connect!
 
-[GitHub](https://github.com/BakangMonei) • [LinkedIn](https://www.linkedin.com/in/monei-bakang-mothuti-b715361b5/) • [X (Twitter)](https://x.com/MoneiBakang) • [Facebook](https://www.facebook.com/bakangmonei.mothuti) • [Instagram](https://www.instagram.com/moneibakangmothuti/) • [ResearchGate](https://www.researchgate.net/profile/Bakang-Motshegwe?ev=hdr_xprf) • [ORCID](https://orcid.org/0009-0003-2318-8309) • [Email](mailto:bakangmonei2@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BakangMonei)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monei-bakang-mothuti-b715361b5/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/MoneiBakang)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/bakangmonei.mothuti)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/moneibakangmothuti/)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Bakang-Motshegwe?ev=hdr_xprf)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-2318-8309)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bakangmonei2@gmail.com)
 
 </div>
 
-### Ongoing Learning & Contributions
+### 📚 Ongoing Learning & Contributions
 
 I'm continuously exploring the latest advancements in:
 
-- Software Engineering & Architecture
-- Cybersecurity & Penetration Testing
-- Gaming & Betting Technologies
-- Networking & Cloud Infrastructure
-- AI/ML Research & Applications
+- 🏗️ Software Engineering & Architecture
+- 🔒 Cybersecurity & Penetration Testing
+- 🎰 Gaming & Betting Technologies
+- 🌐 Networking & Cloud Infrastructure
+- 🤖 AI/ML Research & Applications
 
 I actively engage in forums and open-source communities, sharing knowledge and contributing to projects that push the industry forward.
 
-### Topics I Love Discussing
+### 💬 Topics I Love Discussing
 
-- **Security & Networking** - Advanced network configurations, penetration testing, threat analysis
-- **Betting & Gaming Tech** - Real-time systems, fraud detection, AI-powered analytics
-- **Enterprise Software Architecture** - Clean architecture, microservices, cloud-native solutions
-- **AI/ML Applications** - Machine learning models, edge AI, responsible AI practices
-
----
-
-## GitHub Analytics
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BakangMonei&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BakangMonei&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</p>
-
-### GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BakangMonei&theme=dark&hide_border=false" alt="GitHub Streak" />
-</p>
-
-## GitHub Trophies
-
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=BakangMonei&theme=radical&no-frame=false&no-bg=false&margin-w=6" /> </p>
-
-## Badges
-
-<p align="center"> <a href="https://user-badge.committers.top/botswana_private/BakangMonei"> <img src="https://user-badge.committers.top/botswana_private/BakangMonei.svg" alt="Top Committer Badge" /> </a> </p>
-
-### Random Dev Quote
-
-<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" /> </p>
-
-### Top Contributed Repo
-
-<p align="center"> <img src="https://github-contributor-stats.vercel.app/api?username=BakangMonei&limit=5&theme=dark&combine_all_yearly_contributions=true" /> </p>
+- 🔒 **Security & Networking** - Advanced network configurations, penetration testing, threat analysis
+- 🎰 **Betting & Gaming Tech** - Real-time systems, fraud detection, AI-powered analytics
+- 🏗️ **Enterprise Software Architecture** - Clean architecture, microservices, cloud-native solutions
+- 🤖 **AI/ML Applications** - Machine learning models, edge AI, responsible AI practices
 
 ---
 
-## Support My Work
+## ☕ Support My Work
 
 <div align="center">
 
@@ -501,18 +528,14 @@ I actively engage in forums and open-source communities, sharing knowledge and c
 
 <div align="center">
 
-### Profile Views
+### 👀 Profile Views
 
 ![Profile Views](https://visitcount.itsvg.in/api?id=BakangMonei&icon=6&color=12)
 
 ---
 
-<div align="center">
+**Made with ❤️ by [Bakang Monei](https://www.bakangmonei.co.bw)**
 
-**Made with love by [Bakang Monei](https://www.bakangmonei.co.bw)**
-
-_"Building the future, one commit at a time"_
-
-</div>
+_"Building the future, one commit at a time"_ 🚀
 
 </div>
