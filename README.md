@@ -37,11 +37,11 @@
 
 <div align="center">
 
-| Degree | Institution | Status | Achievement |
-|:------:|:-----------:|:------:|:-----------:|
-| **BSc (Hons) Computer Systems Engineering** | University of Sunderland | Completed (2020-2024) | **Summa Cum Laude** |
-| **MSc Computer Science** (Software Engineering & Architecture) | University of Botswana | In Progress (2024-2026) | - |
-| **Executive MBA** | Sheffield Hallam University | In Progress (2024-2026) | - |
+|                             Degree                             |         Institution         |         Status          |     Achievement     |
+| :------------------------------------------------------------: | :-------------------------: | :---------------------: | :-----------------: |
+|          **BSc (Hons) Computer Systems Engineering**           |  University of Sunderland   |  Completed (2020-2024)  | **Summa Cum Laude** |
+| **MSc Computer Science** (Software Engineering & Architecture) |   University of Botswana    | In Progress (2024-2026) |          -          |
+|                       **Executive MBA**                        | Sheffield Hallam University | In Progress (2024-2026) |          -          |
 
 </div>
 
@@ -59,8 +59,8 @@ A powerhouse at the intersection of **tech innovation** and **academic excellenc
 
 <div align="center">
 
-| **Engineer** | **Architect** | **Entrepreneur** | **Educator** |
-|:---:|:---:|:---:|:---:|
+|                **Engineer**                 |                    **Architect**                     |                        **Entrepreneur**                        |                 **Educator**                 |
+| :-----------------------------------------: | :--------------------------------------------------: | :------------------------------------------------------------: | :------------------------------------------: |
 | Building scalable, enterprise-grade systems | Designing clean, maintainable software architectures | Leading SwiftIQ and scaling ideas from prototype to production | Mentoring and empowering the next generation |
 
 </div>
@@ -85,12 +85,12 @@ My research game? Methodical, detail-obsessed, and always cutting-edge (AI in ga
 
 I bring hands-on experience in **Enterprise Software Engineering & Architecture**, specializing in:
 
-| Domain | Expertise |
-|:------:|:---------:|
-| **Enterprise Application Development** | Designing scalable, maintainable software using clean architecture and modern design patterns |
-| **Data Warehousing & Analytics** | Architecting robust solutions (PostgreSQL, MySQL, MongoDB, Firebase) for large-scale data aggregation, ETL, reporting, and BI |
-| **Operating Systems** | Deep understanding of Linux-based OS internals, kernel-level optimizations, and secure multi-platform development |
-| **Networking & Security** | Engineering secure network architectures, penetration testing, and compliance using state-of-the-art cybersecurity tools |
+|                 Domain                 |                                                           Expertise                                                           |
+| :------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------: |
+| **Enterprise Application Development** |                 Designing scalable, maintainable software using clean architecture and modern design patterns                 |
+|    **Data Warehousing & Analytics**    | Architecting robust solutions (PostgreSQL, MySQL, MongoDB, Firebase) for large-scale data aggregation, ETL, reporting, and BI |
+|         **Operating Systems**          |       Deep understanding of Linux-based OS internals, kernel-level optimizations, and secure multi-platform development       |
+|       **Networking & Security**        |   Engineering secure network architectures, penetration testing, and compliance using state-of-the-art cybersecurity tools    |
 
 ### Betting & Gaming Technology Focus
 
@@ -106,13 +106,13 @@ A significant area of focus where I:
 
 <div align="center">
 
-| Field | Focus |
-|:-----:|:-----:|
-| **Software Engineering & Architecture** | System design, clean architecture, API-first design, modular software development |
-| **Betting & Gaming Systems** | Real-time betting engines, fraud detection, compliance systems, AI-powered gaming analytics |
-| **Data Warehousing** | ETL pipelines, OLAP cubes, reporting dashboards, data lake integration |
-| **Operating Systems** | Linux OS internals, cross-platform development, secure OS configurations |
-| **Networking & Security** | Firewalls, IDS/IPS, encryption, penetration testing, secure network protocols |
+|                  Field                  |                                            Focus                                            |
+| :-------------------------------------: | :-----------------------------------------------------------------------------------------: |
+| **Software Engineering & Architecture** |      System design, clean architecture, API-first design, modular software development      |
+|      **Betting & Gaming Systems**       | Real-time betting engines, fraud detection, compliance systems, AI-powered gaming analytics |
+|          **Data Warehousing**           |           ETL pipelines, OLAP cubes, reporting dashboards, data lake integration            |
+|          **Operating Systems**          |          Linux OS internals, cross-platform development, secure OS configurations           |
+|        **Networking & Security**        |        Firewalls, IDS/IPS, encryption, penetration testing, secure network protocols        |
 
 </div>
 
@@ -424,7 +424,7 @@ A significant area of focus where I:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=BakangMonei&theme=dark&hide_border=false" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.demolab.com/?user=BakangMonei&theme=dark&hide_border=false" alt="GitHub Streak" />
 
 </div>
 
@@ -524,15 +524,6 @@ I actively engage in forums and open-source communities, sharing knowledge and c
 
 </div>
 
----
-
-<div align="center">
-
-### Profile Views
-
-![Profile Views](https://visitcount.itsvg.in/api?id=BakangMonei&icon=6&color=12)
-
----
 
 **Made with love by [Bakang Monei](https://www.bakangmonei.co.bw)**
 
