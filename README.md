@@ -31,11 +31,11 @@
 
 ## Education
 
-| Degree | Institution | Status |
-|--------|-------------|--------|
-| **BSc (Hons) Computer Systems Engineering** | University of Sunderland | Completed (2020-2024), Summa Cum Laude |
-| **MSc Computer Science** (Software Engineering & Architecture) | University of Botswana | In Progress (2024-2026) |
-| **Executive MBA** | Sheffield Hallam University | In Progress (2024-2026) |
+| Degree                                                         | Institution                 | Status                                 |
+| -------------------------------------------------------------- | --------------------------- | -------------------------------------- |
+| **BSc (Hons) Computer Systems Engineering**                    | University of Sunderland    | Completed (2020-2024), Summa Cum Laude |
+| **MSc Computer Science** (Software Engineering & Architecture) | University of Botswana      | In Progress (2024-2026)                |
+| **Executive MBA**                                              | Sheffield Hallam University | In Progress (2024-2026)                |
 
 ---
 
@@ -53,12 +53,12 @@ Research interests include AI ethics in gambling behavior, edge computing, smart
 
 ### Software Engineering & Architecture
 
-| Domain | Expertise |
-|--------|-----------|
+| Domain                                 | Expertise                                                                          |
+| -------------------------------------- | ---------------------------------------------------------------------------------- |
 | **Enterprise Application Development** | Scalable systems using clean architecture, microservices, and domain-driven design |
-| **Data Warehousing & Analytics** | ETL pipelines, OLAP, reporting, and BI with PostgreSQL, MySQL, MongoDB, Firebase |
-| **Operating Systems** | Linux internals, kernel-level optimizations, secure multi-platform development |
-| **Networking & Security** | Secure network design, penetration testing, compliance, and threat mitigation |
+| **Data Warehousing & Analytics**       | ETL pipelines, OLAP, reporting, and BI with PostgreSQL, MySQL, MongoDB, Firebase   |
+| **Operating Systems**                  | Linux internals, kernel-level optimizations, secure multi-platform development     |
+| **Networking & Security**              | Secure network design, penetration testing, compliance, and threat mitigation      |
 
 ### Betting & Gaming Technology
 
@@ -73,13 +73,13 @@ Specialized focus on secure, real-time betting and gaming systems:
 
 ## Focus Areas
 
-| Field | Focus |
-|-------|-------|
+| Field                                   | Focus                                                                     |
+| --------------------------------------- | ------------------------------------------------------------------------- |
 | **Software Engineering & Architecture** | System design, clean architecture, API-first development, modular systems |
-| **Betting & Gaming Systems** | Real-time engines, fraud detection, compliance, AI-powered analytics |
-| **Data Warehousing** | ETL pipelines, OLAP cubes, reporting dashboards, data lake integration |
-| **Operating Systems** | Linux internals, cross-platform development, secure configurations |
-| **Networking & Security** | Firewalls, IDS/IPS, encryption, penetration testing, secure protocols |
+| **Betting & Gaming Systems**            | Real-time engines, fraud detection, compliance, AI-powered analytics      |
+| **Data Warehousing**                    | ETL pipelines, OLAP cubes, reporting dashboards, data lake integration    |
+| **Operating Systems**                   | Linux internals, cross-platform development, secure configurations        |
+| **Networking & Security**               | Firewalls, IDS/IPS, encryption, penetration testing, secure protocols     |
 
 ### Domain Specializations
 
@@ -132,13 +132,13 @@ Git · GitHub Actions · Jenkins · Wireshark · Nmap · Metasploit · Burp Suit
 
 [View All Repositories](https://github.com/BakangMonei?tab=repositories)
 
-| Category | Description |
-|----------|-------------|
-| AI-Powered Applications | ML models for mobile, NLP, and computer vision |
-| Betting & Gaming Systems | Secure, real-time platforms with fraud detection |
-| Cybersecurity Tools | Penetration testing and security analysis utilities |
-| Full-Stack Applications | Enterprise-grade web and mobile solutions |
-| EdTech Platforms | Interactive learning systems for accessible education |
+| Category                 | Description                                           |
+| ------------------------ | ----------------------------------------------------- |
+| AI-Powered Applications  | ML models for mobile, NLP, and computer vision        |
+| Betting & Gaming Systems | Secure, real-time platforms with fraud detection      |
+| Cybersecurity Tools      | Penetration testing and security analysis utilities   |
+| Full-Stack Applications  | Enterprise-grade web and mobile solutions             |
+| EdTech Platforms         | Interactive learning systems for accessible education |
 
 ---
 
