@@ -14,6 +14,7 @@
 </div>
 
 
+
 ---
 
 ## Table of Contents
@@ -25,7 +26,7 @@
 - [Technical Stack](#technical-stack)
 - [Current Initiatives](#current-initiatives)
 - [Featured Projects](#featured-projects)
-- [GitHub Analytics](#github-analytics)
+- [GitHub Analytics](#github-analytics
 - [Contact](#contact)
 
 
