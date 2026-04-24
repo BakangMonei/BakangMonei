@@ -2,17 +2,51 @@
 
 # Monei Bakang Mothuti
 
-### Academia · Executive Engineer · Tech Visionary 
+### Executive Engineer · Founder @ SwiftIQ Technologies · Research Scholar  
+#### Computer Systems Engineering | Computer Science | Telecommunications Engineering | Executive MBA
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BakangMonei)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monei-bakang-mothuti-b715361b5/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/MoneiBakang)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bakangmonei2@gmail.com)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Bakang-Motshegwe?ev=hdr_xprf)
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-2318-8309)
+---
+
+**Architecting Intelligent Systems · Driving Digital Transformation · Advancing Applied Research**
+
+---
+
+<p align="center">
+  <a href="https://github.com/BakangMonei">
+    <img src="https://img.shields.io/badge/GitHub-Portfolio-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/monei-bakang-mothuti-b715361b5/">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional%20Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://x.com/MoneiBakang">
+    <img src="https://img.shields.io/badge/X-Thought%20Leadership-000000?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="mailto:bakangmonei2@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Direct%20Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.researchgate.net/profile/Bakang-Motshegwe?ev=hdr_xprf">
+    <img src="https://img.shields.io/badge/ResearchGate-Academic%20Work-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white"/>
+  </a>
+  <a href="https://orcid.org/0009-0003-2318-8309">
+    <img src="https://img.shields.io/badge/ORCID-Research%20Identity-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### Core Focus Areas
+- Intelligent Systems & AI Engineering  
+- Distributed Systems & Scalable Architectures  
+- Cybersecurity & Data Protection  
+- Digital Transformation Strategy  
+- Applied Research & Innovation  
+
+---
+
+### Strategic Positioning
+Bridging academia and industry through the design, development, and deployment of high-impact technological systems. Focused on delivering scalable solutions, advancing research frontiers, and engineering enterprise-grade innovation.
 
 </div>
-
 
 
 ---
@@ -26,7 +60,7 @@
 - [Technical Stack](#technical-stack)
 - [Current Initiatives](#current-initiatives)
 - [Featured Projects](#featured-projects)
-- [GitHub Analytics](#github-analytics
+- [GitHub Analytics](#github-analytics)
 - [Contact](#contact)
 
 
