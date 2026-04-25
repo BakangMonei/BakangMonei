@@ -35,11 +35,11 @@
 ---
 
 ### Core Focus Areas
-- Intelligent Systems & AI Engineering  
-- Distributed Systems & Scalable Architectures  
-- Cybersecurity & Data Protection  
-- Digital Transformation Strategy  
-- Applied Research & Innovation  
+Intelligent Systems & AI Engineering  
+Distributed Systems & Scalable Architectures  
+Cybersecurity & Data Protection  
+Digital Transformation Strategy  
+Applied Research & Innovation  
 
 ---
 
