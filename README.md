@@ -178,19 +178,41 @@ Git · GitHub Actions · Jenkins · Wireshark · Nmap · Metasploit · Burp Suit
 | EdTech Platforms         | Interactive learning systems for accessible education |
 
 ---
-
 ## GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=BakangMonei&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<!-- Profile Header -->
+<a href="https://github.com/BakangMonei">
+  <img src="https://github.com/BakangMonei.png" width="80" height="80" style="border-radius: 50%;" alt="BakangMonei" />
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BakangMonei&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.demolab.com/?user=BakangMonei&theme=dark&hide_border=false" alt="GitHub Streak" />
+<!-- GitHub Stats -->
+<img
+  src="https://github-readme-stats.vercel.app/api?username=BakangMonei&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=9f8fff&text_color=a0aec0&icon_color=7f77dd&ring_color=7f77dd"
+  alt="GitHub Stats"
+  height="180"
+/>
+
+<!-- Top Languages -->
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BakangMonei&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=9f8fff&text_color=a0aec0"
+  alt="Top Languages"
+  height="180"
+/>
+
+<br/>
+
+<!-- Streak Stats -->
+<img
+  src="https://github-readme-streak-stats.demolab.com/?user=BakangMonei&theme=dark&hide_border=true&background=0d1117&ring=7f77dd&fire=ef9f27&currStreakLabel=9f8fff&sideLabels=a0aec0&dates=a0aec0&currStreakNum=ffffff&sideNums=ffffff"
+  alt="GitHub Streak"
+  height="180"
+/>
 
 </div>
-
 ---
 
 ## Contact
