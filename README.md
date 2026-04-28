@@ -132,23 +132,18 @@ Specialized focus on secure, real-time betting and gaming systems:
 ## Technical Stack
 
 ### Languages
-
 Kotlin · Java · Swift · JavaScript · TypeScript · Python · C++ · Go · Rust
 
 ### Databases
-
 MySQL · PostgreSQL · MongoDB · Firebase · SQLite · Redis
 
 ### Frameworks & Libraries
-
 React · React Native · Spring Boot · Node.js · Laravel · Tailwind CSS
 
 ### Cloud & Infrastructure
-
 AWS · Azure · Google Cloud · IBM Cloud · Docker · Kubernetes · Terraform
 
 ### Tools
-
 Git · GitHub Actions · Jenkins · Wireshark · Nmap · Metasploit · Burp Suite · Prometheus · Grafana
 
 ---
