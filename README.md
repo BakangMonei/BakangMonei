@@ -225,6 +225,3 @@ Open to collaborations, technical discussions, and professional opportunities.
 ---
 
 **Monei Bakang Mothuti** · [bakangmonei.co.bw](https://www.bakangmonei.co.bw)
-
-
-
