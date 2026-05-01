@@ -8,7 +8,7 @@ BSc (Hons) Computer Systems Engineering · MSc Computer Science · Executive MBA
 
 ---
 
-*I build systems that work at scale, under pressure, and in regulated environments — from betting fraud engines to adaptive learning platforms — and I research the ethical implications of AI in the spaces where it matters most.*
+_I build systems that work at scale, under pressure, and in regulated environments — from betting fraud engines to adaptive learning platforms — and I research the ethical implications of AI in the spaces where it matters most._
 
 ---
 
@@ -70,11 +70,11 @@ Outside of SwiftIQ and research, I mentor junior engineers and contribute to bui
 
 ## Education
 
-| Degree | Institution | Status | Notes |
-|--------|-------------|--------|-------|
-| **BSc (Hons) Computer Systems Engineering** | University of Sunderland | Completed, 2020–2024 | First Class Honours — Summa Cum Laude |
-| **MSc Computer Science** — Software Engineering & Architecture | University of Botswana | In Progress, 2024–2026 | Research focus: AI ethics, adaptive systems |
-| **Executive MBA** | Sheffield Hallam University | In Progress, 2024–2026 | Focus: Technology strategy, digital transformation |
+| Degree                                                         | Institution                 | Status                 | Notes                                              |
+| -------------------------------------------------------------- | --------------------------- | ---------------------- | -------------------------------------------------- |
+| **BSc (Hons) Computer Systems Engineering**                    | University of Sunderland    | Completed, 2020–2024   | First Class Honours — Summa Cum Laude              |
+| **MSc Computer Science** — Software Engineering & Architecture | University of Botswana      | In Progress, 2024–2026 | Research focus: AI ethics, adaptive systems        |
+| **Executive MBA**                                              | Sheffield Hallam University | In Progress, 2024–2026 | Focus: Technology strategy, digital transformation |
 
 > Running two postgraduate programmes simultaneously while founding and operating SwiftIQ. Both expected to complete 2026.
 
@@ -100,18 +100,23 @@ SwiftIQ is a technology company building intelligent, secure digital infrastruct
 Rather than a list of domains, here's what my technical work looks like in practice:
 
 ### Betting & Gaming Systems
+
 I design and build real-time betting platforms with fraud detection baked in at the architecture level — not bolted on. This includes player behaviour monitoring models that flag problem gambling patterns, AML compliance pipelines, and transparent fairness systems using cryptographic proofs. I research the **ethical dimensions** of AI applied to gambling behaviour as part of my MSc work, which directly informs how I build these systems.
 
 ### Enterprise Software & Architecture
+
 My default architecture style is **clean architecture with domain-driven design** — systems built to be extended, tested, and handed off without the original author present. I've built ETL pipelines, OLAP reporting layers, microservices platforms, and full-stack products spanning mobile (iOS via Swift, Android via Kotlin) to backend (Spring Boot, Node.js, Laravel) to data layer (PostgreSQL, MongoDB, Redis, Firebase).
 
 ### Cybersecurity
+
 I work at CCNP-level network design — secure segmentation, firewall configuration, IDS/IPS deployment. On the offensive side, I use Metasploit, Burp Suite, Wireshark, and Nmap for penetration testing and vulnerability assessments. I implement the findings, not just report them.
 
 ### AI / ML Engineering
+
 I build and deploy ML models in production environments — not prototype notebooks. Applications include: fraud risk scoring, player behaviour classification, student engagement prediction, diagnostic support systems, and NLP pipelines for mobile. Currently working with Python-based ML stacks integrated into mobile apps via on-device inference.
 
 ### Cloud & Infrastructure
+
 I architect and operate cloud environments across AWS, Azure, and GCP. I use Terraform for infrastructure-as-code, Kubernetes for container orchestration, Docker for packaging, and GitHub Actions / Jenkins for CI/CD pipelines. I monitor with Prometheus and Grafana.
 
 ---
@@ -124,12 +129,12 @@ My research sits at the intersection of AI ethics, human behaviour, and system d
 
 **Active research areas:**
 
-| Area | Description |
-|------|-------------|
-| **AI Ethics in Gambling Behaviour** | How ML-driven recommendation and personalization systems influence compulsive gambling patterns; responsible AI design frameworks for betting platforms |
-| **Edge Computing & Distributed Systems** | Architectures optimized for low-bandwidth, high-latency environments relevant to African infrastructure contexts |
-| **Adaptive Learning Systems** | AI-driven tutoring platforms that respond to individual student learning patterns; NLP-based engagement analytics |
-| **Smart Robotics** | Embedded AI for semi-autonomous systems; sensor fusion and real-time decision-making at the edge |
+| Area                                     | Description                                                                                                                                             |
+| ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **AI Ethics in Gambling Behaviour**      | How ML-driven recommendation and personalization systems influence compulsive gambling patterns; responsible AI design frameworks for betting platforms |
+| **Edge Computing & Distributed Systems** | Architectures optimized for low-bandwidth, high-latency environments relevant to African infrastructure contexts                                        |
+| **Adaptive Learning Systems**            | AI-driven tutoring platforms that respond to individual student learning patterns; NLP-based engagement analytics                                       |
+| **Smart Robotics**                       | Embedded AI for semi-autonomous systems; sensor fusion and real-time decision-making at the edge                                                        |
 
 📄 [View publications on ResearchGate](https://www.researchgate.net/profile/Bakang-Motshegwe?ev=hdr_xprf)
 
@@ -138,18 +143,23 @@ My research sits at the intersection of AI ethics, human behaviour, and system d
 ## Technical Stack
 
 ### Languages
+
 Kotlin · Java · Swift · JavaScript · TypeScript · Python · C++ · Go · Rust
 
 ### Databases
+
 MySQL · PostgreSQL · MongoDB · Firebase · SQLite · Redis
 
 ### Frameworks & Libraries
+
 React · React Native · Spring Boot · Node.js · Laravel · Tailwind CSS
 
 ### Cloud & Infrastructure
+
 AWS · Azure · Google Cloud · IBM Cloud · Docker · Kubernetes · Terraform
 
 ### Tools
+
 Git · GitHub Actions · Jenkins · Wireshark · Nmap · Metasploit · Burp Suite · Prometheus · Grafana
 
 **Currently deepening:** Rust · Go · GraphQL · Kubernetes internals · Terraform advanced patterns
@@ -160,16 +170,16 @@ Git · GitHub Actions · Jenkins · Wireshark · Nmap · Metasploit · Burp Suit
 
 > Full repository list: [github.com/BakangMonei](https://github.com/BakangMonei?tab=repositories)
 
-*Descriptions below reflect project categories. Individual repositories linked on GitHub.*
+_Descriptions below reflect project categories. Individual repositories linked on GitHub._
 
-| Project | Stack | What It Does |
-|---------|-------|--------------|
-| **Betting Fraud Detection Engine** | Python · PostgreSQL · FastAPI | Real-time ML scoring pipeline for player risk classification and AML compliance flagging |
-| **Adaptive EdTech Platform** | React · Node.js · MongoDB | Intelligent tutoring system with per-student engagement analytics and content adaptation |
-| **Penetration Testing Toolkit** | Python · Nmap · Metasploit | Automated recon and vulnerability scanning suite with structured reporting output |
-| **Mobile ML Inference App** | Kotlin · TensorFlow Lite · Firebase | On-device ML model deployment for NLP and computer vision on Android |
-| **Cloud-Native Enterprise API** | Spring Boot · Docker · Kubernetes · AWS | Microservices backend with API-first design, CI/CD pipeline, and auto-scaling |
-| **eHealth Diagnostic System** | Python · React · PostgreSQL | Symptom-based diagnostic support tool with ML triage and telemedicine integration |
+| Project                            | Stack                                   | What It Does                                                                             |
+| ---------------------------------- | --------------------------------------- | ---------------------------------------------------------------------------------------- |
+| **Betting Fraud Detection Engine** | Python · PostgreSQL · FastAPI           | Real-time ML scoring pipeline for player risk classification and AML compliance flagging |
+| **Adaptive EdTech Platform**       | React · Node.js · MongoDB               | Intelligent tutoring system with per-student engagement analytics and content adaptation |
+| **Penetration Testing Toolkit**    | Python · Nmap · Metasploit              | Automated recon and vulnerability scanning suite with structured reporting output        |
+| **Mobile ML Inference App**        | Kotlin · TensorFlow Lite · Firebase     | On-device ML model deployment for NLP and computer vision on Android                     |
+| **Cloud-Native Enterprise API**    | Spring Boot · Docker · Kubernetes · AWS | Microservices backend with API-first design, CI/CD pipeline, and auto-scaling            |
+| **eHealth Diagnostic System**      | Python · React · PostgreSQL             | Symptom-based diagnostic support tool with ML triage and telemedicine integration        |
 
 ---
 
@@ -210,6 +220,7 @@ Git · GitHub Actions · Jenkins · Wireshark · Nmap · Metasploit · Burp Suit
 ## Let's Talk
 
 I'm open to:
+
 - **Technical collaborations** — research partnerships, open source, consulting
 - **Speaking and writing** — AI ethics, African tech ecosystems, security, EdTech
 - **Hiring conversations** — senior engineering, architecture, or fractional CTO roles
