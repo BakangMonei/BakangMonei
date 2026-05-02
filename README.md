@@ -50,6 +50,8 @@ _I build systems that work at scale, under pressure, and in regulated environmen
 - [Technical Stack](#technical-stack)
 - [Featured Projects](#featured-projects)
 - [GitHub Analytics](#github-analytics)
+- [Open Source & Community](#open-source--community)
+- [Philosophy of Engineering](#philosophy-of-engineering)
 - [Let's Talk](#lets-talk)
 
 ---
@@ -92,6 +94,8 @@ SwiftIQ is a technology company building intelligent, secure digital infrastruct
 - **Cloud-native enterprise systems** — API-first architectures built for multi-cloud deployment (AWS, Azure, GCP) with edge computing support for low-connectivity environments
 - **Security consulting and implementation** — Network security design, penetration testing, threat modelling, and compliance implementation
 - **EdTech platforms** — Adaptive learning systems with AI-driven student analytics and intelligent tutoring
+
+**Operating principles:** Security-by-design · Observable systems · Documentation that survives team churn · Compliance as a product feature, not an afterthought
 
 ---
 
@@ -142,25 +146,25 @@ My research sits at the intersection of AI ethics, human behaviour, and system d
 
 ## Technical Stack
 
-### Languages
+### 💻 Languages
 
-Kotlin · Java · Swift · JavaScript · TypeScript · Python · C++ · Go · Rust
+🟣 **Kotlin** · ☕ **Java** · 🐦 **Swift** · 📜 **JavaScript** · 📘 **TypeScript** · 🐍 **Python** · ⚡ **C++** · 🐹 **Go** · 🦀 **Rust**
 
-### Databases
+### 🗄️ Databases & Data Stores
 
-MySQL · PostgreSQL · MongoDB · Firebase · SQLite · Redis
+🐬 **MySQL** · 🐘 **PostgreSQL** · 🍃 **MongoDB** · 🔥 **Firebase** · 📱 **SQLite** · 🔴 **Redis**
 
-### Frameworks & Libraries
+### ⚛️ Frameworks & Libraries
 
-React · React Native · Spring Boot · Node.js · Laravel · Tailwind CSS
+⚛️ **React** · 📲 **React Native** · 🍃 **Spring Boot** · 🟢 **Node.js** · 🔴 **Laravel** · 🎨 **Tailwind CSS**
 
-### Cloud & Infrastructure
+### ☁️ Cloud & Infrastructure
 
-AWS · Azure · Google Cloud · IBM Cloud · Docker · Kubernetes · Terraform
+☁️ **AWS** · 🔷 **Azure** · 🌈 **Google Cloud** · 🔵 **IBM Cloud** · 🐳 **Docker** · ⚙️ **Kubernetes** · 🏗️ **Terraform**
 
-### Tools
+### 🛠️ Tools & Security
 
-Git · GitHub Actions · Jenkins · Wireshark · Nmap · Metasploit · Burp Suite · Prometheus · Grafana
+🔀 **Git** · 🔄 **GitHub Actions** · 🤖 **Jenkins** · 📡 **Wireshark** · 🗺️ **Nmap** · 💣 **Metasploit** · 🕷️ **Burp Suite** · 📈 **Prometheus** · 📊 **Grafana**
 
 **Currently deepening:** Rust · Go · GraphQL · Kubernetes internals · Terraform advanced patterns
 
@@ -185,6 +189,8 @@ _Descriptions below reflect project categories. Individual repositories linked o
 
 ## GitHub Analytics
 
+Live cards below use public GitHub data. Stats cards use [gh-stats.work](https://gh-stats.work) — a community mirror compatible with [github-readme-stats](https://github.com/anuraghazra/github-readme-stats), because the original `github-readme-stats.vercel.app` deployment is often paused. If an image fails briefly, refresh; hosts can rate-limit during spikes.
+
 <div align="center">
 
 <a href="https://github.com/BakangMonei">
@@ -194,13 +200,13 @@ _Descriptions below reflect project categories. Individual repositories linked o
 <br/><br/>
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=BakangMonei&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=9f8fff&text_color=a0aec0&icon_color=7f77dd&ring_color=7f77dd"
+  src="https://gh-stats.work/api?username=BakangMonei&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&bg_color=0d1117&title_color=9f8fff&text_color=a0aec0&icon_color=7f77dd&ring_color=7f77dd"
   alt="GitHub Stats"
   height="180"
 />
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BakangMonei&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=9f8fff&text_color=a0aec0"
+  src="https://gh-stats.work/api/top-langs/?username=BakangMonei&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&bg_color=0d1117&title_color=9f8fff&text_color=a0aec0"
   alt="Top Languages"
   height="180"
 />
@@ -208,12 +214,36 @@ _Descriptions below reflect project categories. Individual repositories linked o
 <br/>
 
 <img
-  src="https://github-readme-streak-stats.demolab.com/?user=BakangMonei&theme=dark&hide_border=true&background=0d1117&ring=7f77dd&fire=ef9f27&currStreakLabel=9f8fff&sideLabels=a0aec0&dates=a0aec0&currStreakNum=ffffff&sideNums=ffffff"
+  src="https://streak-stats.demolab.com/?user=BakangMonei&theme=dark&hide_border=true&background=0D1117&ring=7f77dd&fire=EF9F27&currStreakLabel=9f8fff&sideLabels=A0AEC0&dates=A0AEC0&currStreakNum=FFFFFF&sideNums=FFFFFF"
   alt="GitHub Streak"
   height="180"
 />
 
+<br/>
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=BakangMonei&theme=github-dark&hide_border=true&bg_color=0d1117&color=9f8fff&line=7f77dd&point=ffffff"
+  alt="Contribution activity graph"
+/>
+
 </div>
+
+---
+
+## Open Source & Community
+
+- **Mentorship** — I work with early-career engineers in southern Africa on architecture fundamentals, security hygiene, and navigating enterprise hiring.
+- **Repositories** — Experimental tooling, coursework, and prototypes land on GitHub; production SwiftIQ work is typically private or customer-specific.
+- **Collaboration** — Open to meaningful open-source contributions aligned with EdTech, responsible gambling tooling, or African infra patterns — reach out before large PRs so we align on direction.
+
+---
+
+## Philosophy of Engineering
+
+1. **Design for the worst day** — Outages, fraud spikes, and regulatory audits are when architecture matters; aesthetics on a calm Tuesday do not.
+2. **Ethics is an engineering input** — Research informs product decisions; “move fast” never excuses predictable harm in vulnerable domains.
+3. **Africa-first constraints** — Latency, intermittent connectivity, and skills pipelines are design requirements, not excuses for brittle systems.
+4. **Ownership end-to-end** — From threat model to dashboard alerts: if I ship it, I stand behind operating it.
 
 ---
 
