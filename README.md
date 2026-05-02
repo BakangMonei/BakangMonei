@@ -193,38 +193,63 @@ Live cards below use public GitHub data. Stats cards use [gh-stats.work](https:/
 
 <div align="center">
 
+<br/>
+
 <a href="https://github.com/BakangMonei">
-  <img src="https://github.com/BakangMonei.png" width="80" height="80" style="border-radius: 50%;" alt="BakangMonei" />
+  <img src="https://github.com/BakangMonei.png" width="96" height="96" style="border-radius: 50%;" alt="BakangMonei profile" />
 </a>
+
+<br/>
+<sub><strong>BakangMonei</strong> · public activity</sub>
 
 <br/><br/>
 
-<img
-  src="https://gh-stats.work/api?username=BakangMonei&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&bg_color=0d1117&title_color=9f8fff&text_color=a0aec0&icon_color=7f77dd&ring_color=7f77dd"
-  alt="GitHub Stats"
-  height="180"
-/>
-
-<img
-  src="https://gh-stats.work/api/top-langs/?username=BakangMonei&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&bg_color=0d1117&title_color=9f8fff&text_color=a0aec0"
-  alt="Top Languages"
-  height="180"
-/>
-
-<br/>
-
-<img
-  src="https://streak-stats.demolab.com/?user=BakangMonei&theme=dark&hide_border=true&background=0D1117&ring=7f77dd&fire=EF9F27&currStreakLabel=9f8fff&sideLabels=A0AEC0&dates=A0AEC0&currStreakNum=FFFFFF&sideNums=FFFFFF"
-  alt="GitHub Streak"
-  height="180"
-/>
-
-<br/>
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=BakangMonei&theme=github-dark&hide_border=true&bg_color=0d1117&color=9f8fff&line=7f77dd&point=ffffff"
-  alt="Contribution activity graph"
-/>
+<table border="0" cellspacing="18" cellpadding="8" align="center">
+  <tr>
+    <td align="center" valign="middle">
+      <b>📊 Stats</b>
+      <br/><br/>
+      <img
+        src="https://gh-stats.work/api?username=BakangMonei&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&bg_color=0d1117&title_color=9f8fff&text_color=a0aec0&icon_color=7f77dd&ring_color=7f77dd"
+        alt="GitHub Stats"
+        height="195"
+      />
+    </td>
+    <td align="center" valign="middle">
+      <b>🗂️ Top languages</b>
+      <br/><br/>
+      <img
+        src="https://gh-stats.work/api/top-langs/?username=BakangMonei&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&bg_color=0d1117&title_color=9f8fff&text_color=a0aec0"
+        alt="Top Languages"
+        height="195"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle" colspan="2">
+      <br/>
+      <b>🔥 Contribution streak</b>
+      <br/><br/>
+      <img
+        src="https://streak-stats.demolab.com/?user=BakangMonei&theme=dark&hide_border=true&background=0D1117&ring=7f77dd&fire=EF9F27&currStreakLabel=9f8fff&sideLabels=A0AEC0&dates=A0AEC0&currStreakNum=FFFFFF&sideNums=FFFFFF"
+        alt="GitHub Streak"
+        height="185"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle" colspan="2">
+      <br/>
+      <b>📈 Contributions over time</b>
+      <br/><br/>
+      <img
+        src="https://github-readme-activity-graph.vercel.app/graph?username=BakangMonei&theme=github-dark&hide_border=true&bg_color=0d1117&color=9f8fff&line=7f77dd&point=ffffff"
+        alt="Contribution activity graph"
+        width="720"
+      />
+    </td>
+  </tr>
+</table>
 
 </div>
 
