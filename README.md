@@ -140,33 +140,82 @@ My research sits at the intersection of AI ethics, human behaviour, and system d
 | **Adaptive Learning Systems**            | AI-driven tutoring platforms that respond to individual student learning patterns; NLP-based engagement analytics                                       |
 | **Smart Robotics**                       | Embedded AI for semi-autonomous systems; sensor fusion and real-time decision-making at the edge                                                        |
 
-📄 [View publications on ResearchGate](https://www.researchgate.net/profile/Bakang-Motshegwe?ev=hdr_xprf)
+[View publications on ResearchGate](https://www.researchgate.net/profile/Bakang-Motshegwe?ev=hdr_xprf)
 
 ---
 
 ## Technical Stack
 
-### 💻 Languages
+Icons link to official sites or canonical documentation where applicable.
 
-🟣 **Kotlin** · ☕ **Java** · 🐦 **Swift** · 📜 **JavaScript** · 📘 **TypeScript** · 🐍 **Python** · ⚡ **C++** · 🐹 **Go** · 🦀 **Rust**
+### Languages
 
-### 🗄️ Databases & Data Stores
+<p align="left">
+  <a href="https://kotlinlang.org/" title="Kotlin"><img height="32" alt="Kotlin" src="https://cdn.simpleicons.org/kotlin" /></a>&nbsp;&nbsp;
+  <a href="https://www.oracle.com/java/" title="Java"><img height="32" alt="Java" src="https://cdn.simpleicons.org/java" /></a>&nbsp;&nbsp;
+  <a href="https://swift.org/" title="Swift"><img height="32" alt="Swift" src="https://cdn.simpleicons.org/swift" /></a>&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img height="32" alt="JavaScript" src="https://cdn.simpleicons.org/javascript" /></a>&nbsp;&nbsp;
+  <a href="https://www.typescriptlang.org/" title="TypeScript"><img height="32" alt="TypeScript" src="https://cdn.simpleicons.org/typescript" /></a>&nbsp;&nbsp;
+  <a href="https://www.python.org/" title="Python"><img height="32" alt="Python" src="https://cdn.simpleicons.org/python" /></a>&nbsp;&nbsp;
+  <a href="https://isocpp.org/" title="C++"><img height="32" alt="C++" src="https://cdn.simpleicons.org/cplusplus" /></a>&nbsp;&nbsp;
+  <a href="https://go.dev/" title="Go"><img height="32" alt="Go" src="https://cdn.simpleicons.org/go" /></a>&nbsp;&nbsp;
+  <a href="https://www.rust-lang.org/" title="Rust"><img height="32" alt="Rust" src="https://cdn.simpleicons.org/rust" /></a>
+</p>
 
-🐬 **MySQL** · 🐘 **PostgreSQL** · 🍃 **MongoDB** · 🔥 **Firebase** · 📱 **SQLite** · 🔴 **Redis**
+### Databases & data stores
 
-### ⚛️ Frameworks & Libraries
+<p align="left">
+  <a href="https://www.mysql.com/" title="MySQL"><img height="32" alt="MySQL" src="https://cdn.simpleicons.org/mysql" /></a>&nbsp;&nbsp;
+  <a href="https://www.postgresql.org/" title="PostgreSQL"><img height="32" alt="PostgreSQL" src="https://cdn.simpleicons.org/postgresql" /></a>&nbsp;&nbsp;
+  <a href="https://www.mongodb.com/" title="MongoDB"><img height="32" alt="MongoDB" src="https://cdn.simpleicons.org/mongodb" /></a>&nbsp;&nbsp;
+  <a href="https://firebase.google.com/" title="Firebase"><img height="32" alt="Firebase" src="https://cdn.simpleicons.org/firebase" /></a>&nbsp;&nbsp;
+  <a href="https://www.sqlite.org/" title="SQLite"><img height="32" alt="SQLite" src="https://cdn.simpleicons.org/sqlite" /></a>&nbsp;&nbsp;
+  <a href="https://redis.io/" title="Redis"><img height="32" alt="Redis" src="https://cdn.simpleicons.org/redis" /></a>
+</p>
 
-⚛️ **React** · 📲 **React Native** · 🍃 **Spring Boot** · 🟢 **Node.js** · 🔴 **Laravel** · 🎨 **Tailwind CSS**
+### Frameworks & libraries
 
-### ☁️ Cloud & Infrastructure
+<p align="left">
+  <a href="https://react.dev/" title="React"><img height="32" alt="React" src="https://cdn.simpleicons.org/react" /></a>&nbsp;&nbsp;
+  <a href="https://reactnative.dev/" title="React Native"><img height="32" alt="React Native" src="https://cdn.simpleicons.org/react" /></a>&nbsp;&nbsp;
+  <a href="https://spring.io/projects/spring-boot" title="Spring Boot"><img height="32" alt="Spring Boot" src="https://cdn.simpleicons.org/springboot" /></a>&nbsp;&nbsp;
+  <a href="https://nodejs.org/" title="Node.js"><img height="32" alt="Node.js" src="https://cdn.simpleicons.org/nodedotjs" /></a>&nbsp;&nbsp;
+  <a href="https://laravel.com/" title="Laravel"><img height="32" alt="Laravel" src="https://cdn.simpleicons.org/laravel" /></a>&nbsp;&nbsp;
+  <a href="https://tailwindcss.com/" title="Tailwind CSS"><img height="32" alt="Tailwind CSS" src="https://cdn.simpleicons.org/tailwindcss" /></a>
+</p>
 
-☁️ **AWS** · 🔷 **Azure** · 🌈 **Google Cloud** · 🔵 **IBM Cloud** · 🐳 **Docker** · ⚙️ **Kubernetes** · 🏗️ **Terraform**
+### Cloud & infrastructure
 
-### 🛠️ Tools & Security
+<p align="left">
+  <a href="https://aws.amazon.com/" title="AWS"><img height="28" alt="AWS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" /></a>&nbsp;&nbsp;
+  <a href="https://azure.microsoft.com/" title="Microsoft Azure"><img height="28" alt="Azure" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" /></a>&nbsp;&nbsp;
+  <a href="https://cloud.google.com/" title="Google Cloud"><img height="32" alt="Google Cloud" src="https://cdn.simpleicons.org/googlecloud" /></a>&nbsp;&nbsp;
+  <a href="https://www.ibm.com/cloud" title="IBM Cloud"><img height="32" alt="IBM" src="https://img.shields.io/badge/-054ADA?style=flat-square&logo=ibm&logoColor=white" /></a>&nbsp;&nbsp;
+  <a href="https://www.docker.com/" title="Docker"><img height="32" alt="Docker" src="https://cdn.simpleicons.org/docker" /></a>&nbsp;&nbsp;
+  <a href="https://kubernetes.io/" title="Kubernetes"><img height="32" alt="Kubernetes" src="https://cdn.simpleicons.org/kubernetes" /></a>&nbsp;&nbsp;
+  <a href="https://www.terraform.io/" title="Terraform"><img height="32" alt="Terraform" src="https://cdn.simpleicons.org/terraform" /></a>
+</p>
 
-🔀 **Git** · 🔄 **GitHub Actions** · 🤖 **Jenkins** · 📡 **Wireshark** · 🗺️ **Nmap** · 💣 **Metasploit** · 🕷️ **Burp Suite** · 📈 **Prometheus** · 📊 **Grafana**
+### Tools & security
 
-**Currently deepening:** Rust · Go · GraphQL · Kubernetes internals · Terraform advanced patterns
+<p align="left">
+  <a href="https://git-scm.com/" title="Git"><img height="32" alt="Git" src="https://cdn.simpleicons.org/git" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/features/actions" title="GitHub Actions"><img height="32" alt="GitHub Actions" src="https://cdn.simpleicons.org/githubactions" /></a>&nbsp;&nbsp;
+  <a href="https://www.jenkins.io/" title="Jenkins"><img height="32" alt="Jenkins" src="https://cdn.simpleicons.org/jenkins" /></a>&nbsp;&nbsp;
+  <a href="https://www.wireshark.org/" title="Wireshark"><img height="32" alt="Wireshark" src="https://cdn.simpleicons.org/wireshark" /></a>&nbsp;&nbsp;
+  <a href="https://nmap.org/" title="Nmap"><img height="32" alt="Nmap" src="https://img.shields.io/badge/-275C85?style=flat-square&logo=nmap&logoColor=white" /></a>&nbsp;&nbsp;
+  <a href="https://www.metasploit.com/" title="Metasploit"><img height="32" alt="Metasploit" src="https://cdn.simpleicons.org/metasploit" /></a>&nbsp;&nbsp;
+  <a href="https://portswigger.net/burp" title="Burp Suite"><img height="32" alt="Burp Suite" src="https://cdn.simpleicons.org/burpsuite" /></a>&nbsp;&nbsp;
+  <a href="https://prometheus.io/" title="Prometheus"><img height="32" alt="Prometheus" src="https://cdn.simpleicons.org/prometheus" /></a>&nbsp;&nbsp;
+  <a href="https://grafana.com/" title="Grafana"><img height="32" alt="Grafana" src="https://cdn.simpleicons.org/grafana" /></a>
+</p>
+
+**Currently deepening:**
+<a href="https://www.rust-lang.org/" title="Rust"><img height="28" alt="Rust" align="middle" src="https://cdn.simpleicons.org/rust" /></a>&nbsp;&nbsp;
+<a href="https://go.dev/" title="Go"><img height="28" alt="Go" align="middle" src="https://cdn.simpleicons.org/go" /></a>&nbsp;&nbsp;
+<a href="https://graphql.org/" title="GraphQL"><img height="28" alt="GraphQL" align="middle" src="https://cdn.simpleicons.org/graphql" /></a>&nbsp;&nbsp;
+<a href="https://kubernetes.io/docs/concepts/" title="Kubernetes internals"><img height="28" alt="Kubernetes" align="middle" src="https://cdn.simpleicons.org/kubernetes" /></a>&nbsp;&nbsp;
+<a href="https://developer.hashicorp.com/terraform" title="Terraform advanced patterns"><img height="28" alt="Terraform" align="middle" src="https://cdn.simpleicons.org/terraform" /></a>
 
 ---
 
@@ -207,7 +256,7 @@ Live cards below use public GitHub data. Stats cards use [gh-stats.work](https:/
 <table border="0" cellspacing="18" cellpadding="8" align="center">
   <tr>
     <td align="center" valign="middle">
-      <b>📊 Stats</b>
+      <b>Stats</b>
       <br/><br/>
       <img
         src="https://gh-stats.work/api?username=BakangMonei&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&bg_color=0d1117&title_color=9f8fff&text_color=a0aec0&icon_color=7f77dd&ring_color=7f77dd"
@@ -216,7 +265,7 @@ Live cards below use public GitHub data. Stats cards use [gh-stats.work](https:/
       />
     </td>
     <td align="center" valign="middle">
-      <b>🗂️ Top languages</b>
+      <b>Top languages</b>
       <br/><br/>
       <img
         src="https://gh-stats.work/api/top-langs/?username=BakangMonei&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&bg_color=0d1117&title_color=9f8fff&text_color=a0aec0"
@@ -228,7 +277,7 @@ Live cards below use public GitHub data. Stats cards use [gh-stats.work](https:/
   <tr>
     <td align="center" valign="middle" colspan="2">
       <br/>
-      <b>🔥 Contribution streak</b>
+      <b>Contribution streak</b>
       <br/><br/>
       <img
         src="https://streak-stats.demolab.com/?user=BakangMonei&theme=dark&hide_border=true&background=0D1117&ring=7f77dd&fire=EF9F27&currStreakLabel=9f8fff&sideLabels=A0AEC0&dates=A0AEC0&currStreakNum=FFFFFF&sideNums=FFFFFF"
@@ -240,7 +289,7 @@ Live cards below use public GitHub data. Stats cards use [gh-stats.work](https:/
   <tr>
     <td align="center" valign="middle" colspan="2">
       <br/>
-      <b>📈 Contributions over time</b>
+      <b>Contributions over time</b>
       <br/><br/>
       <img
         src="https://github-readme-activity-graph.vercel.app/graph?username=BakangMonei&theme=github-dark&hide_border=true&bg_color=0d1117&color=9f8fff&line=7f77dd&point=ffffff"
@@ -297,4 +346,3 @@ Reach out through any channel below — I respond to everything.
 **Monei Bakang Mothuti** · Gaborone, Botswana · [bakangmonei.co.bw](https://www.bakangmonei.co.bw)
 
 </div>
-
