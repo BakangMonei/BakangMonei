@@ -152,7 +152,7 @@ Icons link to official sites or canonical documentation where applicable.
 
 <p align="left">
   <a href="https://kotlinlang.org/" title="Kotlin"><img height="32" alt="Kotlin" src="https://cdn.simpleicons.org/kotlin" /></a>&nbsp;&nbsp;
-  <a href="https://www.oracle.com/java/" title="Java"><img height="32" alt="Java" src="https://cdn.simpleicons.org/java" /></a>&nbsp;&nbsp;
+  <a href="https://openjdk.org/" title="Java"><img height="32" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></a>&nbsp;&nbsp;
   <a href="https://swift.org/" title="Swift"><img height="32" alt="Swift" src="https://cdn.simpleicons.org/swift" /></a>&nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img height="32" alt="JavaScript" src="https://cdn.simpleicons.org/javascript" /></a>&nbsp;&nbsp;
   <a href="https://www.typescriptlang.org/" title="TypeScript"><img height="32" alt="TypeScript" src="https://cdn.simpleicons.org/typescript" /></a>&nbsp;&nbsp;
@@ -177,7 +177,7 @@ Icons link to official sites or canonical documentation where applicable.
 
 <p align="left">
   <a href="https://react.dev/" title="React"><img height="32" alt="React" src="https://cdn.simpleicons.org/react" /></a>&nbsp;&nbsp;
-  <a href="https://reactnative.dev/" title="React Native"><img height="32" alt="React Native" src="https://cdn.simpleicons.org/react" /></a>&nbsp;&nbsp;
+  <a href="https://reactnative.dev/" title="React Native"><img height="32" alt="React Native" src="https://reactnative.dev/img/tiny_logo.png" /></a>&nbsp;&nbsp;
   <a href="https://spring.io/projects/spring-boot" title="Spring Boot"><img height="32" alt="Spring Boot" src="https://cdn.simpleicons.org/springboot" /></a>&nbsp;&nbsp;
   <a href="https://nodejs.org/" title="Node.js"><img height="32" alt="Node.js" src="https://cdn.simpleicons.org/nodedotjs" /></a>&nbsp;&nbsp;
   <a href="https://laravel.com/" title="Laravel"><img height="32" alt="Laravel" src="https://cdn.simpleicons.org/laravel" /></a>&nbsp;&nbsp;
