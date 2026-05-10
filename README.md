@@ -34,6 +34,9 @@ _I build systems that work at scale, under pressure, and in regulated environmen
   <a href="https://www.bakangmonei.co.bw">
     <img src="https://img.shields.io/badge/Website-bakangmonei.co.bw-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
+  <a href="https://www.swiftiq.co.bw">
+    <img src="https://img.shields.io/badge/SwiftIQ-swiftiq.co.bw-7f77dd?style=for-the-badge"/>
+  </a>
 </p>
 
 </div>
@@ -84,7 +87,7 @@ Outside of SwiftIQ and research, I mentor junior engineers and contribute to bui
 
 ## SwiftIQ Technologies
 
-**Founder & Executive Engineer** | Gaborone, Botswana
+**Founder & Executive Engineer** | Gaborone, Botswana · **[swiftiq.co.bw](https://www.swiftiq.co.bw)**
 
 SwiftIQ is a technology company building intelligent, secure digital infrastructure for African markets. The core problem we solve: enterprises in high-fraud, high-regulation, connectivity-variable environments need systems built for those conditions from the ground up — not adapted from tools designed for different contexts.
 
@@ -238,7 +241,7 @@ _Descriptions below reflect project categories. Individual repositories linked o
 
 ## GitHub Analytics
 
-Live cards below use public GitHub data. Stats cards use [gh-stats.work](https://gh-stats.work) — a community mirror compatible with [github-readme-stats](https://github.com/anuraghazra/github-readme-stats), because the original `github-readme-stats.vercel.app` deployment is often paused. If an image fails briefly, refresh; hosts can rate-limit during spikes.
+Live cards below use public GitHub data. Stats cards use [gh-stats.work](https://gh-stats.work) — a mirror compatible with [github-readme-stats](https://github.com/anuraghazra/github-readme-stats); the upstream `github-readme-stats.vercel.app` instance is often paused. **Public hosts cannot reliably show lifetime commit totals** (`include_all_commits`); the stats card therefore uses GitHub’s default window (typically last-year activity), which avoids API errors on shared instances. If a card blanks out, refresh after a minute — hosts can rate-limit.
 
 <div align="center">
 
@@ -259,7 +262,7 @@ Live cards below use public GitHub data. Stats cards use [gh-stats.work](https:/
       <b>Stats</b>
       <br/><br/>
       <img
-        src="https://gh-stats.work/api?username=BakangMonei&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&bg_color=0d1117&title_color=9f8fff&text_color=a0aec0&icon_color=7f77dd&ring_color=7f77dd"
+        src="https://gh-stats.work/api?username=BakangMonei&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9f8fff&text_color=a0aec0&icon_color=7f77dd&ring_color=7f77dd"
         alt="GitHub Stats"
         height="195"
       />
@@ -343,6 +346,6 @@ Reach out through any channel below — I respond to everything.
 
 <div align="center">
 
-**Monei Bakang Mothuti** · Gaborone, Botswana · [bakangmonei.co.bw](https://www.bakangmonei.co.bw)
+**Monei Bakang Mothuti** · Gaborone, Botswana · [bakangmonei.co.bw](https://www.bakangmonei.co.bw) · SwiftIQ: [swiftiq.co.bw](https://www.swiftiq.co.bw)
 
 </div>
