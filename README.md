@@ -3,6 +3,7 @@
 # Monei Bakang Mothuti
 
 **Executive Engineer · Founder, SwiftIQ Technologies · Research Scholar**
+
 BSc (Hons) Computer Systems Engineering · MSc Computer Science · Executive MBA
 
 ---
